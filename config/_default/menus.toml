@@ -4,29 +4,172 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "Informacija"
+  identifier = "informacija"
+  url = "informacija/"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Apie projektą"
+  parent = "informacija"
+  identifier = "apie-projekta"
+  url = "informacija/apie-projekta/"
+
+[[main]]
+  name = "Kaip įsigyti"
+  parent = "informacija"
+  identifier = "kaip-isigyti"
+  url = "informacija/kaip-isigyti/"
+
+[[main]]
+  name = "Talentai"
+  parent = "informacija"
+  identifier = "talentai"
+  url = "informacija/talentai/"
+
+[[main]]
+  name = "Paraiška"
+  parent = "informacija"
+  identifier = "paraiska"
+  url = "informacija/paraiska/"
+
+[[main]]
+  name = "Vilnius"
+  identifier = "vilnius"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "2014"
+  parent = "vilnius"
+  identifier = "vilnius-2014"
+  url = "404"
+
+[[main]]
+  name = "2015"
+  parent = "vilnius"
+  identifier = "vilnius-2015"
+  url = "404"
+
+[[main]]
+  name = "2016"
+  parent = "vilnius"
+  identifier = "vilnius-2016"
+  url = "404"
+
+[[main]]
+  name = "2017"
+  parent = "vilnius"
+  identifier = "vilnius-2017"
+  url = "404"
+
+[[main]]
+  name = "2018"
+  parent = "vilnius"
+  identifier = "vilnius-2018"
+  url = "404"
+
+[[main]]
+  name = "2019"
+  parent = "vilnius"
+  identifier = "vilnius-2019"
+  url = "404"
+
+[[main]]
+  name = "Kaunas"
+  url = "404"
+  identifier = "kaunas"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "2016"
+  parent = "kaunas"
+  identifier = "kaunas-2016"
+  url = "404"
+
+[[main]]
+  name = "2017"
+  parent = "kaunas"
+  identifier = "kaunas-2017"
+  url = "404"
+
+[[main]]
+  name = "2019"
+  parent = "kaunas"
+  identifier = "kaunas-2019"
+  url = "404"
+
+[[main]]
+  name = "Klaipėda"
+  identifier = "klaipeda"
+  url = "404"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "2016"
+  parent = "klaipeda"
+  identifier = "klaipeda-2016"
+  url = "404"
+
+[[main]]
+  name = "2017"
+  parent = "klaipeda"
+  identifier = "klaipeda-2017"
+  url = "404"
+
+[[main]]
+  name = "2018"
+  parent = "klaipeda"
+  identifier = "klaipeda-2018"
+  url = "404"
+
+[[main]]
+  name = "2019"
+  parent = "klaipeda"
+  identifier = "klaipeda-2019"
+  url = "404"
+
+[[main]]
+  name = "Šiauliai"
+  identifier = "siauliai"
+  url = "404"
+  weight = 50
+
+[[main]]
+  name = "2016"
+  parent = "siauliai"
+  identifier = "siauliai-2016"
+  url = "404"
+
+[[main]]
+  name = "2017"
+  parent = "siauliai"
+  identifier = "siauliai-2017"
+  url = "404"
+
+[[main]]
+  name = "2018"
+  parent = "siauliai"
+  identifier = "siauliai-2018"
+  url = "404"
+
+[[main]]
+  name = "2019"
+  parent = "siauliai"
+  identifier = "siauliai-2019"
+  url = "404"
+
+[[main]]
+  name = "Marijampolė"
+  identifier = "marijampole"
+  url = "404"
   weight = 60
+
+[[main]]
+  name = "2016"
+  parent = "marijampole"
+  identifier = "marijampole-2016"
+  url = "404"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
