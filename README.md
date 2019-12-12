@@ -1,3 +1,4 @@
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 Hugo version needed is https://github.com/gohugoio/hugo/releases/tag/v0.61.0
