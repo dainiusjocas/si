@@ -194,16 +194,16 @@
 # Search
 
 - id: search
-  translation: Search
+  translation: Ieškoti
 
 - id: search_placeholder
-  translation: Search...
+  translation: Paieška...
 
 - id: search_results
   translation: results found
 
 - id: search_no_results
-  translation: No results found
+  translation: Nieko nerasta
 
 # Error 404
 
