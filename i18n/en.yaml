@@ -200,7 +200,7 @@
   translation: Paieška...
 
 - id: search_results
-  translation: results found
+  translation: rasti puslapiai
 
 - id: search_no_results
   translation: Nieko nerasta
@@ -208,7 +208,7 @@
 # Error 404
 
 - id: page_not_found
-  translation: Page not found
+  translation: Puslapis nerastas
 
 - id: 404_recommendations
   translation: Perhaps you were looking for one of these?

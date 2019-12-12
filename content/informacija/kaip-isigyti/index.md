@@ -2,8 +2,8 @@
 aliases: [kaip-isigyti]
 projects: [sekmes-inkilelis]
 title: Kaip įsigyti
-authors: ["Geležinis vilkas"]
-date: '2019-11-15'
+# authors: ["Geležinis vilkas"]
+date: '2019-12-12'
 tags: []
 categories:
   - Informacija

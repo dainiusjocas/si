@@ -2,8 +2,8 @@
 aliases: [talentai]
 projects: [sekmes-inkilelis]
 title: Talentai
-authors: [Dainius Jocas]
-date: '2019-11-15'
+# authors: [Dainius Jocas]
+date: '2019-12-12'
 tags: []
 categories:
   - Informacija
