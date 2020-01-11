@@ -19,640 +19,165 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-
-Nr. V1 savininkai Vilnius International Rotaract Club
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V2 savininkai Šiaulių Rotary klubas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V3 savininkas Giedrius Medzevičius
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V4
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V5 savininkai Birutė Ir Kazimieras Vaišvilos
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V6 savininkė Rūta Zuokaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V7 savininkai Renalda Statkevičiūtė, Austė Treinytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V8 savininkė Emilija Garunkštytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V9 savininkė Vytautė Bubnovaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V10 savininkai UAB “Biuro mašinos”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V11 savininkai UAB “Krištoliniai vandenys”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V12 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V13 savininkai UAB “105 Life”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-Nr. V14 savininkas Giedrius Medzevičius
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V15 savininkas Karolis Domarkas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V16
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V17 savininkai Rytary klubas “Liberta”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V18 savininkas Andrius Gužauskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V19 savininkas Arnas Repečka
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V20 savininkas Antanas Jotauta
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V21 savininkas Evald Griškevič
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V22 savininkas Vilmantas Petrauskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V23
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V24
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V25
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V26
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V27 savininkas Remigijus Savickas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V28 savininkas Fabian Petraitis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V29 savininkai Kisielių šeima
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V30 savininkai Rotary klubas “Vytis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V31 savininkai Rotary klubas “Vytis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V32 savininkė Alina Simutienė
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V33 savininkė Ramunė Barkauskienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V34 savininkė Vesta Marcinkevičienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V35 savininkas Giedrius Ambrozevicius
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V36 savininkas Adrijus Jaciunskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V37 savininkė Viktorija Utkina
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V38 savininkas Justinas Simanskis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V39 savininkas Pranas Draksas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V40 savininkai UAB “Biuro mašinos”
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V41
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V42
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V43
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V44 savininkai Ieva Kniežaitė, Vytautas Kišvinas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V45 savininkas Lasha Badagadze
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V46 savininkas Lasha Badagadze
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V47 savininkas Lasha Badagadze
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V48
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V49 savininkai UAB “Žibinto servisas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V50 savininkai UAB “Gėlių formos”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V51 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V52 savininkai UAB “105 Life”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V53 savininkai UAB “GMQ Europe”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V54 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V55 savininkai UAB “105 Life”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V56 savininkai UAB “Carat”
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V57 savininkas Gintautas Liepuonis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V58 savininkai Vaidas ir Jurgita
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V59 savininkai UAB “Biuro mašinos”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V60 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V61 savininkas Andrius Ladauskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V62
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V63 savininkė Alina Buinovskaja
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V64 savininkė Laura Garbenčiūtė-Bakienė
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V65 savininkai UAB “Dinobalt”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V66 savininkas Giedrius Zybertas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V67 savininkas Donatas Velykis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V68 savininkė Ieva Sipavičiūtė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V69 savininkai UAB “Roofart Lietuva”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V70 savininkai UAB “LT ADVERT”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V71 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V72 savininkė Kristina Buzina
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V73
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V74 savininkai www.mikrobusonuoma.lt, Rytis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V75 savininkė Asta Baškauskaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V76
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V77 savininkai UAB “Būrų užeiga”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V78
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V79 savininkai UAB “GMQ Europe”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V80 savininkai UAB “Skulas”
-￼Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V81 savininkai UAB “105 Life”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V82
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V83
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V84 savininkai Laura Jūraitė, Vaiva Voverytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V85 savininkė Julija Dainelienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V86 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V87 savininkė Laimute Petraitienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-Nr. V88 savininkai UAB “Almilera”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V89 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V90 savininkai UAB “Edvardo servisas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V91
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V92
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V93 savininkai UAB “Tegros Namai”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V94 savininkai UAB “Tegros Namai”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V95 savininkai UAB “Tegros Namai”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V96 savininkė Viktorija Šiaulytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V97 savininkai Rotary klubas “Dipolis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V98 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V99 savininkai Marketingo Valdymo Agentūra
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V100 savininkai UAB “Patalpų valymas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V101
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V102 savininkai Vilniaus Rotaract Klubas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V103 savininkai Vilniaus Rotaract Klubas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V104 savininkė Jurate Strazauskienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V105 savininkė Gražina Geizelienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V106 savininkė Giedrė Svilainienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V107 savininkė Aušra Paulauskienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V108 savininkai Rotary klubas “Aditė”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V109 savininkas Patrikas Kaselis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V110 savininkai UAB “105 Life”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V111 savininkai Darželis “Klaužada”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V112 savininkai UAB “Skulas”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V113 savininkė Rugilė Zabelnikovaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V114 savininkai Liucija ir Artūras Kriukovai
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V115 savininkai Keršienė (Neringa ir Vida)
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V116 savininkai Liucija ir Artūras Kriukovai
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V117 savininkas Sergej Melnikov
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V118 savininkai grupė HIT
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V119 savininkė Daniela Galinytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V120 savininkas Vilius Lėveris
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V121 savininkė Marija Juchnaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V122 savininkai MK “Drama”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V123 savininkas Algimantas Sadauskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V124 savininkė Gražina Cironkaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V125 savininkas Algirdas Mameniškis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V126 savininkai Greta ir Ieva Šegždaitės
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V127 savininkai Rotary klubas “Vytis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V128 savininkai Rotary klubas “Vytis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V129 savininkas Dovaldas Kušlikis
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V130 savininkas Darius Seilius Mažeikių Rotary klubas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V131 savininkė Lukrecija Juchnaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V132
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V133 savininkai Grožio salonas “Džesė”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V134 savininkas Michailas Šeras
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V135 savininkė Danutė Kasauskienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V136 savininkas Liudas Duoba
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V137 savininkas Kauno Vidinio Rato klubas
-Vieta: Tado Ivanausko Obelynės parkas.
-
-Nr. V138 savininkė Laura Pečiulienė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V139 savininkai UAB “Saurida”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V140 savininkai Lukas Vaišvila, Paulina Kazlauskaitė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V141 savininkai Rotary klubas “Vytis”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V142 savininkai UAB “Delamode Baltics”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V143 savininkai Martyno Mockevičiaus “Paukščių namai”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V144 savininkė Vita
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-￼Nr. V145 savininkai Greta Augustavičiūtė ir Julius
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V146 savininkė Kamilė Sprainaitytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V147 savininkas Juozas Zykus
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V148 savininkė Izabelė Okunevičiūtė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V149 savininkė Iveta Mekšraitytė
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V150 savininkai Rotary klubas “Harmonija”
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V151 savininkas Vainius Četrauskas
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V152 savininkai Jaunieji Rinkevičiai
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-￼Nr. V153 savininkas Egidijus Buika
-Vieta: Veisiejai, Alytaus raj.
-Pakabinta: 2017 03 26.
-Nr. V154 savininkai Jaunieji Rinkevičiai
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V155
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V156
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V157
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V158
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V159
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
-
-Nr. V160
-Vieta: Vilniaus Vingio parkas.
-Pakabinta: 2016 05 07.
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|V1|Vilnius International Rotaract Club|Vilniaus Vingio parkas|2016 05 07|                                     
+|V2|Šiaulių Rotary klubas|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V3|Giedrius Medzevičius|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V4||Vilniaus Vingio parkas|2016 05 07|                                                                        
+|V5|Birutė Ir Kazimieras Vaišvilos|Vilniaus Vingio parkas|2016 05 07|                                          
+|V6|Rūta Zuokaitė|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V7|Renalda Statkevičiūtė, Austė Treinytė|Vilniaus Vingio parkas|2016 05 07|                                   
+|V8|Emilija Garunkštytė|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V9|Vytautė Bubnovaitė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V10|UAB “Biuro mašinos”|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V11|UAB “Krištoliniai vandenys”|Vilniaus Vingio parkas|2016 05 07|                                            
+|V12|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V13|UAB “105 Life”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V14|Giedrius Medzevičius|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V15|Karolis Domarkas|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V16||￼Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V17|Rytary klubas “Liberta”|Vilniaus Vingio parkas|2016 05 07|                                                
+|V18|Andrius Gužauskas|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V19|Arnas Repečka|Vilniaus Vingio parkas|2016 05 07|                                                          
+|V20|Antanas Jotauta|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V21|Evald Griškevič|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V22|Vilmantas Petrauskas|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V23||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V24||￼Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V25||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V26||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V27|Remigijus Savickas|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V28|Fabian Petraitis|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V29|Kisielių šeima|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V30|Rotary klubas “Vytis”|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V31|Rotary klubas “Vytis”|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V32|Alina Simutienė|￼Vilniaus Vingio parkas|2016 05 07|                                                       
+|V33|Ramunė Barkauskienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V34|Vesta Marcinkevičienė|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V35|Giedrius Ambrozevicius|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V36|Adrijus Jaciunskas|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V37|Viktorija Utkina|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V38|Justinas Simanskis|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V39|Pranas Draksas|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V40|UAB “Biuro mašinos”|￼Vilniaus Vingio parkas|2016 05 07|                                                   
+|V41||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V42||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V43||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V44|Ieva Kniežaitė, Vytautas Kišvinas|Vilniaus Vingio parkas|2016 05 07|                                      
+|V45|Lasha Badagadze|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V46|Lasha Badagadze|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V47|Lasha Badagadze|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V48||￼Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V49|UAB “Žibinto servisas”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V50|UAB “Gėlių formos”|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V51|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V52|UAB “105 Life”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V53|UAB “GMQ Europe”|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V54|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V55|UAB “105 Life”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V56|UAB “Carat”|￼Vilniaus Vingio parkas|2016 05 07|                                                           
+|V57|Gintautas Liepuonis|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V58|Vaidas ir Jurgita|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V59|UAB “Biuro mašinos”|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V60|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V61|Andrius Ladauskas|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V62||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V63|Alina Buinovskaja|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V64|Laura Garbenčiūtė-Bakienė|￼Vilniaus Vingio parkas|2016 05 07|                                             
+|V65|UAB “Dinobalt”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V66|Giedrius Zybertas|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V67|Donatas Velykis|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V68|Ieva Sipavičiūtė|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V69|UAB “Roofart Lietuva”|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V70|UAB “LT ADVERT”|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V71|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V72|Kristina Buzina|￼Vilniaus Vingio parkas|2016 05 07|                                                       
+|V73||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V74|www.mikrobusonuoma.lt, Rytis|Vilniaus Vingio parkas|2016 05 07|                                           
+|V75|Asta Baškauskaitė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V76||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V77|UAB “Būrų užeiga”|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V78||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V79|UAB “GMQ Europe”|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V80|UAB “Skulas”|￼Vilniaus Vingio parkas|2016 05 07|                                                          
+|V81|UAB “105 Life”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V82||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V83||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V84|Laura Jūraitė, Vaiva Voverytė|Vilniaus Vingio parkas|2016 05 07|                                          
+|V85|Julija Dainelienė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V86|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V87|Laimute Petraitienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V88|UAB “Almilera”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V89|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V90|UAB “Edvardo servisas”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V91||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V92||Vilniaus Vingio parkas|2016 05 07|                                                                       
+|V93|UAB “Tegros Namai”|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V94|UAB “Tegros Namai”|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V95|UAB “Tegros Namai”|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V96|Viktorija Šiaulytė|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V97|Rotary klubas “Dipolis”|Vilniaus Vingio parkas|2016 05 07|                                                
+|V98|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                           
+|V99|Marketingo Valdymo Agentūra|Vilniaus Vingio parkas|2016 05 07|                                            
+|V100|UAB “Patalpų valymas”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V101||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V102|Vilniaus Rotaract Klubas|Vilniaus Vingio parkas|2016 05 07|                                              
+|V103|Vilniaus Rotaract Klubas|Vilniaus Vingio parkas|2016 05 07|                                              
+|V104|Jurate Strazauskienė|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V105|Gražina Geizelienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V106|Giedrė Svilainienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V107|Aušra Paulauskienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V108|Rotary klubas “Aditė”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V109|Patrikas Kaselis|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V110|UAB “105 Life”|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V111|Darželis “Klaužada”|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V112|UAB “Skulas”|Vilniaus Vingio parkas|2016 05 07|                                                          
+|V113|Rugilė Zabelnikovaitė|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V114|Liucija ir Artūras Kriukovai|Vilniaus Vingio parkas|2016 05 07|                                          
+|V115|Keršienė (Neringa ir Vida)|Vilniaus Vingio parkas|2016 05 07|                                            
+|V116|Liucija ir Artūras Kriukovai|Vilniaus Vingio parkas|2016 05 07|                                          
+|V117|Sergej Melnikov|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V118|grupė HIT|Vilniaus Vingio parkas|2016 05 07|                                                             
+|V119|Daniela Galinytė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V120|Vilius Lėveris|Vilniaus Vingio parkas|2016 05 07|                                                        
+|V121|Marija Juchnaitė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V122|MK “Drama”|Vilniaus Vingio parkas|2016 05 07|                                                            
+|V123|Algimantas Sadauskas|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V124|Gražina Cironkaitė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V125|Algirdas Mameniškis|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V126|Greta ir Ieva Šegždaitės|Vilniaus Vingio parkas|2016 05 07|                                              
+|V127|Rotary klubas “Vytis”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V128|Rotary klubas “Vytis”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V129|Dovaldas Kušlikis|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V130|Darius Seilius Mažeikių Rotary klubas|Vilniaus Vingio parkas|2016 05 07|                                 
+|V131|Lukrecija Juchnaitė|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V132||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V133|Grožio salonas “Džesė”|Vilniaus Vingio parkas|2016 05 07|                                                
+|V134|Michailas Šeras|Vilniaus Vingio parkas|2016 05 07|                                                       
+|V135|Danutė Kasauskienė|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V136|Liudas Duoba|Vilniaus Vingio parkas|2016 05 07|                                                          
+|V137|Kauno Vidinio Rato klubas|Tado Ivanausko Obelynės parkas|2016 05 07|                                     
+|V138|Laura Pečiulienė|Vilniaus Vingio parkas|2016 05 07|                                                      
+|V139|UAB “Saurida”|Vilniaus Vingio parkas|2016 05 07|                                                         
+|V140|Lukas Vaišvila, Paulina Kazlauskaitė|Vilniaus Vingio parkas|2016 05 07|                                  
+|V141|Rotary klubas “Vytis”|Vilniaus Vingio parkas|2016 05 07|                                                 
+|V142|UAB “Delamode Baltics”|Vilniaus Vingio parkas|2016 05 07|                                                
+|V143|Martyno Mockevičiaus “Paukščių namai”|Vilniaus Vingio parkas|2016 05 07|                                 
+|V144|Vita|Vilniaus Vingio parkas|2016 05 07|                                                                  
+|￼V145|Greta Augustavičiūtė ir Julius|Vilniaus Vingio parkas|2016 05 07|                                       
+|V146|Kamilė Sprainaitytė|Vilniaus Vingio parkas|2016 05 07|                                                   
+|V147|Juozas Zykus|Vilniaus Vingio parkas|2016 05 07|                                                          
+|V148|Izabelė Okunevičiūtė|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V149|Iveta Mekšraitytė|Vilniaus Vingio parkas|2016 05 07|                                                     
+|V150|Rotary klubas “Harmonija”|Vilniaus Vingio parkas|2016 05 07|                                             
+|V151|Vainius Četrauskas|Vilniaus Vingio parkas|2016 05 07|                                                    
+|V152|Jaunieji Rinkevičiai|Vilniaus Vingio parkas|2016 05 07|                                                  
+|￼V153|Egidijus Buika|Veisiejai, Alytaus raj|2017 03 26|                                                       
+|V154|Jaunieji Rinkevičiai|Vilniaus Vingio parkas|2016 05 07|                                                  
+|V155||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V156||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V157||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V158||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V159||Vilniaus Vingio parkas|2016 05 07|                                                                      
+|V160||Vilniaus Vingio parkas|2016 05 07|
