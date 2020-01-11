@@ -19,99 +19,29 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-KL19-1 UAB Atrankos
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-2 Balticum
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-3 Light house
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-￼KL19-4 MB Grin Grin
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-5 Klaipėdos Rotary klubas “Aditė”
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-6 Klaipėdos Interact klubas “AD ASTRA”
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-7 Audrius Šešplaukis
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-8 Audrius Šešplaukis
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-9 Saulius Budavičius
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-10 Asta Puidokaitė
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-11 Luknė Zulonaitė
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-12 Klaipėdos “Senamiesčio” Rotary klubas
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-13 Renatas Petkevičius
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-14 Jelena Tamulienė
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-15 Jelena Tamulienė
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-16 Daiva ir Kęstutis Plačeniai
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-17 Sala Plateliai resort
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-18 Sala Plateliai resort
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-19 Valerija ir Rimantė
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-20 Vidmantas Vaitkevičius
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-21 Vidmantas Vaitkevičius
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-22 Andriukas
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-23 Ąžuolas Juška
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
-
-KL19-24
-Vieta: Girulių dviračių takas, Klaipėda
-Pakabinta: 2019-04-27
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|KL19-1|UAB Atrankos|Girulių dviračių takas, Klaipėda|2019-04-27|                              
+|KL19-2|Balticum|Girulių dviračių takas, Klaipėda|2019-04-27|                                  
+|KL19-3|Light house|Girulių dviračių takas, Klaipėda|2019-04-27|                               
+|￼KL19-4|MB Grin Grin|Girulių dviračių takas, Klaipėda|2019-04-27|                             
+|KL19-5|Klaipėdos Rotary klubas “Aditė”|Girulių dviračių takas, Klaipėda|2019-04-27|           
+|KL19-6|Klaipėdos Interact klubas “AD ASTRA”|Girulių dviračių takas, Klaipėda|2019-04-27|      
+|KL19-7|Audrius Šešplaukis|Girulių dviračių takas, Klaipėda|2019-04-27|                        
+|KL19-8|Audrius Šešplaukis|Girulių dviračių takas, Klaipėda|2019-04-27|                        
+|KL19-9|Saulius Budavičius|Girulių dviračių takas, Klaipėda|2019-04-27|                        
+|KL19-10|Asta Puidokaitė|Girulių dviračių takas, Klaipėda|2019-04-27|                          
+|KL19-11|Luknė Zulonaitė|Girulių dviračių takas, Klaipėda|2019-04-27|                          
+|KL19-12|Klaipėdos “Senamiesčio” Rotary klubas|Girulių dviračių takas, Klaipėda|2019-04-27|    
+|KL19-13|Renatas Petkevičius|Girulių dviračių takas, Klaipėda|2019-04-27|                      
+|KL19-14|Jelena Tamulienė|Girulių dviračių takas, Klaipėda|2019-04-27|                         
+|KL19-15|Jelena Tamulienė|Girulių dviračių takas, Klaipėda|2019-04-27|                         
+|KL19-16|Daiva ir Kęstutis Plačeniai|Girulių dviračių takas, Klaipėda|2019-04-27|              
+|KL19-17|Sala Plateliai resort|Girulių dviračių takas, Klaipėda|2019-04-27|                    
+|KL19-18|Sala Plateliai resort|Girulių dviračių takas, Klaipėda|2019-04-27|                    
+|KL19-19|Valerija ir Rimantė|Girulių dviračių takas, Klaipėda|2019-04-27|                      
+|KL19-20|Vidmantas Vaitkevičius|Girulių dviračių takas, Klaipėda|2019-04-27|                   
+|KL19-21|Vidmantas Vaitkevičius|Girulių dviračių takas, Klaipėda|2019-04-27|                   
+|KL19-22|Andriukas|Girulių dviračių takas, Klaipėda|2019-04-27|                                
+|KL19-23|Ąžuolas Juška|Girulių dviračių takas, Klaipėda|2019-04-27|                            
+|KL19-24||Girulių dviračių takas, Klaipėda|2019-04-27|                                        
