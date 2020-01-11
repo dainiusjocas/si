@@ -1,0 +1,537 @@
+---
+aliases: [vilnius-2019]
+projects: [sekmes-inkilelis]
+title: Vilnius 2019
+# authors: [Dainius Jocas]
+date: '2019-05-10'
+tags: []
+categories:
+  - Vilnius
+summary: Inkilėliai pakabinti 2019 metais Vilniuje
+image:
+  caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
+  focal_point: "Center"
+  placement: 1
+  preview_only: false
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+V19-1 Lietuvos jaunųjų advokatų asociacija (LJAA)
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-2 Augustinas Mačionis
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-3 TeleSoftas
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-4 Agnė Motuzaitė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+￼V19-5 Lukas Burinskas
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-6 Giedrius Medzevičius
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-7 Arpine Babayan
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-8 Algis ir Ugnė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-9 Vilniaus Rotaract klubas
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-10 Aidas Zubkonis
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-11 Mark Gurskij
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-12 Audrius Slažinskas
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-13 Monika ir Juras Taminskai
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-14 Valentinas Knyva
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-15 Nerija ir Algirdas Taminskai
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-16 Rotary klubas “Vienybė”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-17 Artur Romanovski
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-18 Rotary klubas “Vienybė”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-19 Asta Baškauskaitė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-20 Rotary klubas “Vienybė”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-21 Rotary klubas “Vienybė”
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-22Algirdas Karvelis
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-23 Ignas Guzelis
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-24 Gabrielė Taminskaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-25 Katažina ir Dimitrij
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-26 BSH2 Danske bank
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-27 Rokas Mikšiūnas
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-28 Giedrius Medzevičius
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-29 Tomas Šileika
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-30 Giedrius Medzevičius
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-31 Giedrius Medzevičius
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-32 Andrius
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-33 Vilius Bikneris
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-34 Evaldas
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-35 Gintarė Pelakauskienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-36 Milda Venclovaitytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-37 Valdemaras Drozd
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-38 Dalia Paškauskienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-39 Kristina Bučinskaitė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-40 Gediminas
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-41 Jonė ir Herkus
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-42 UAB Galdikas.eu
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-43 Martynas Šaka
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-44 Beata Kačiušytė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-45 Viktorija Nemniasevaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-46 Emilis Armonas
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-47 Dalia Markevičienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-48 “Skrivanek vertimų biuras”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-49 UAB Narbutas International
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-50 Gintautas Gumbelevičius
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-51 Mindaugas Jankus
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-52 Vidas Gedutis
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-53 Mantas Marčiulaitis
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-54 MB “Perkūno investicijos”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-55 Elena Balėnaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-56 Marta Kazulytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-57 Ema Kazulytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-58 Giedrė Tubelytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-59 UAB “Esemda”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-60 Ana ir Egidijus Bulevičiai
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-61 UAB “Baltic Engineers”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-62 UAB “Baltic Engineers”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-63 Karaliaus Mindaugo Rotary klubas
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-64 Donatas Kireilis
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-65 “Mdenta”
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-66 “Mdenta”
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-67 Dentilė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-68 Dovydas Statulevičius
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-69 “Kobs odontologijos klinika”
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-70 Simona ir Andrius Marcinkevičiai
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-71 Kiudulai
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-72 Emilė Valiukaitė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-73 Rotary klubas “Vienybė”
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-74 Simona Miliauskienė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-75 Lorus
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-76 Brolių medus
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-77 Greta Forosenko
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-78 MB Planas verslui
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-79
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-80 Antanas Milkus
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-82 buhalteres.lt
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-83 buhalteres.lt
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-84 UAB “Sabelija”
+Vieta: Burbiškio dvaras, Šiauliai
+Pakabinta: 2019-05-11
+
+V19-85 Giedrius Medzevičius
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-86 UAB “Sabelija”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-87 UAB “Sabelija”
+Vieta: Girulių dviračių takas, Klaipėda
+Pakabinta: 2019-04-27
+
+V19-88 Karolis Romaška
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-89 Eglė Užmiškytė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-90 Martynas Steponavičius
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-91 Danvitė-Dsmile
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-92 Danvitė-Dsmile
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-93 Diana
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-94 Mykolas ir Justė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-95 Cukrus Agency
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-96 Rita Mickuvienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-97 Karolis ir Agnė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-98 Dovydas Lukšas ir Samanta Žemaitytė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-100 Mažeikių Rotary klubas “Liberta”
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-101 Advokatų profesinė bendrija FORT (Lietuva)
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-102 Advokatų profesinė bendrija FORT (Latvija)
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-103 Advokatų profesinė bendrija FORT (Estija)
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-104 MB Autodealas
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-105 Arina Valiulytė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-106 Aistis Ramanauskas ir Augustė Baltuonytė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-107 Vytautas Buzas ir Karolina Baltuonytė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-108 Greta Kreivėnaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-111 Laurynas Suodaitis
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-112 Marija Milišauskaitė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-114 LIMA
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-115 Maksimilian Pavlovskij
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-120 Aurimas Lenktys
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-127 Sigita Padvariškytė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-128 CH team
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-129 Elina Chodzkaitė-Barauskienė
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-132 wix.com
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-133 Eglė Radžiūnė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-134 Eglė Radžiūnė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-135 Eglė Radžiūnė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-137 Irena Švelnikienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-138
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-142 Jolita Masevič
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-143 Simonas Razvanavičius
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-144
+Vieta: Sapiegų rūmų parkas
+Pakabinta: 2019-04-27
+
+V19-145 Justinas Jauniškis
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-146 Aras Bukevičius-Win
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-147 Milda Milčiūtė
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-148 Tomas Petras Rupšys
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27
+
+V19-149 Vladimiras Kolesovas
+Vieta: Asmeninė sodyba
+Pakabinta: 2019-04-27
+
+V19-150 Jūratė Kajackienė
+Vieta: Sapieginės pažintinis takas
+Pakabinta: 2019-04-27

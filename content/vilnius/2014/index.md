@@ -1,0 +1,141 @@
+---
+aliases: [vilnius-2014]
+projects: [sekmes-inkilelis]
+title: Vilnius 2014
+# authors: [Dainius Jocas]
+date: '2014-05-10'
+tags: []
+categories:
+  - Vilnius
+summary: Inkilėliai pakabinti 2014 metais Vilniuje
+image:
+  caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
+  focal_point: "Center"
+  placement: 1
+  preview_only: false
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+
+Nr. B30 Robertas Filistovičius
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B29 savininkas Mindaugas Jonušas
+￼Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B28 savininkai linksmieji Cibulskiai
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B27 savininkas Domas Šiaudinis
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B26 savininkė Sandra Trinkūnaitė
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B25 savininkė Viktorija Navickaitė
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B24 savininkė Asta Domeikienė
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B23 savininkai globos vaikų namų aukėtiniai
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B22 savininkas Tomas Peleckas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B21 savininkas UAB KOSTAS
+￼Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B20 savininkė Rita Avelytė
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. 19 savininkas Edvinas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. 18 savininkas UAB TEGRA STATE
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. 17 savininkas UAB CHEESE HOUSE
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. 16 savininkas Vilniaus Geležinio Vilko Rotaract klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B15 savininkas Vilniaus m. sav. investicinių projektų skyrius
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B14 savininkas Vilniaus Rotaract klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B13 savininkas Klaipėdos Aditės Rotary klubas
+￼Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B12 savininkai Sakalauskai
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B11 savininkas Povilas Suodaitis
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B10 savininkas Šiaulių Rotary klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B9 savininkas Vilniaus Rotaract klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B8 savininkas Vilniaus Rotaract klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B7 savininkas Vilkyškis
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B6 savininkas Justas Zabolskis
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B5 savinikas visuomeninis judėjimas TAIP
+￼Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B4 savininkas Miroslovas Monkevičius
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B3 savininkas Vilniaus Rotaract klubas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+                                                                                                                                         Nr. B2 savininkai Vasara ir Mikas
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+
+Nr. B1 savininkas Juozas Olekas ir anūkai
+Vieta: Bernardinų sodas.
+Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.

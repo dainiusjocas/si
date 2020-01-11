@@ -43,37 +43,37 @@
   name = "2014"
   parent = "vilnius"
   identifier = "vilnius-2014"
-  url = "404"
+  url = "vilnius/2014"
 
 [[main]]
   name = "2015"
   parent = "vilnius"
   identifier = "vilnius-2015"
-  url = "404"
+  url = "vilnius/2015"
 
 [[main]]
   name = "2016"
   parent = "vilnius"
   identifier = "vilnius-2016"
-  url = "404"
+  url = "vilnius/2016"
 
 [[main]]
   name = "2017"
   parent = "vilnius"
   identifier = "vilnius-2017"
-  url = "404"
+  url = "vilnius/2017"
 
 [[main]]
   name = "2018"
   parent = "vilnius"
   identifier = "vilnius-2018"
-  url = "404"
+  url = "vilnius/2018"
 
 [[main]]
   name = "2019"
   parent = "vilnius"
   identifier = "vilnius-2019"
-  url = "404"
+  url = "vilnius/2019"
 
 [[main]]
   name = "Kaunas"
@@ -85,7 +85,7 @@
   name = "2016"
   parent = "kaunas"
   identifier = "kaunas-2016"
-  url = "404"
+  url = "kaunas/2016/"
 
 [[main]]
   name = "2017"
@@ -115,13 +115,13 @@
   name = "2017"
   parent = "klaipeda"
   identifier = "klaipeda-2017"
-  url = "404"
+  url = "klaipeda/2017"
 
 [[main]]
   name = "2018"
   parent = "klaipeda"
   identifier = "klaipeda-2018"
-  url = "404"
+  url = "klaipeda/2018"
 
 [[main]]
   name = "2019"
@@ -139,13 +139,13 @@
   name = "2016"
   parent = "siauliai"
   identifier = "siauliai-2016"
-  url = "404"
+  url = "siauliai/2016/"
 
 [[main]]
   name = "2017"
   parent = "siauliai"
   identifier = "siauliai-2017"
-  url = "404"
+  url = "siauliai/2016/"
 
 [[main]]
   name = "2018"
@@ -157,7 +157,7 @@
   name = "2019"
   parent = "siauliai"
   identifier = "siauliai-2019"
-  url = "404"
+  url = "siauliai/2019/"
 
 [[main]]
   name = "Marijampolė"
@@ -169,7 +169,7 @@
   name = "2016"
   parent = "marijampole"
   identifier = "marijampole-2016"
-  url = "404"
+  url = "marijampole/2016/"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

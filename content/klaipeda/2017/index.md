@@ -1,0 +1,141 @@
+---
+aliases: [klaipeda-2017]
+projects: [sekmes-inkilelis]
+title: Klaipėda 2017
+# authors: [Dainius Jocas]
+date: '2017-05-10'
+tags: []
+categories:
+  - Klaipėda
+summary: Inkilėliai pakabinti 2017 metais Klaipėdoje
+image:
+  caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
+  focal_point: "Center"
+  placement: 1
+  preview_only: false
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+Nr. KL1 savininkai Rotary Aditė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL2 savininkas Ąžuolas Juška
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL3 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL4 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL5 savininkai Klaipėdos Concordia 1826
+￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL6 savininkai Klaipėdos Concordia 1826
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL7 savininkė Dominyka
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL8 savininkė Olesia Žuravliova-Raustienė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL9 savininkas Valdas Raustys
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL10 savininkai UAB “Kongera”
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL11 savininkas Vykintas Zulonas
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL12
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL13 savininkai Klaipėdos r. Slengių mokykla – Daugiafunkcis Centras
+￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL14 savininkai UAB “Kamineros grupė”
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL15 savininkai Raimonda UAB “Didas”
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL16 savininkė Andželika Dirmontienė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL17 savininkė Virginija
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL18 savininkė Jurgita Činauskaitė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL19 savininkė Jurgita Činauskaitė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL20 savininkas Jurijus Proskurin
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL21 savininkas Jurijus Proskurin
+￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL22 savininkė Ugnė Raudytė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL23 savininkai Audrius ir Rūta Beliauskai
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL24 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL25 savininkai UAB “Avola”
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL26 savininkai Agnė ir Giedrius Beliauskai
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL27
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL28
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL29
+￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.
+
+Nr. KL30 savininkė Gabrielė Strigūnaitė
+Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
+Pakabinta: 2017 05 21.

@@ -1,0 +1,629 @@
+---
+aliases: [vilnius-2014]
+projects: [sekmes-inkilelis]
+title: Vilnius 2014
+# authors: [Dainius Jocas]
+date: '2014-05-10'
+tags: []
+categories:
+  - Vilnius
+summary: Inkilėliai pakabinti 2014 metais Vilniuje
+image:
+  caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
+  focal_point: "Center"
+  placement: 1
+  preview_only: false
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+V18-1 UAB Delamode Baltic
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-2 Daumantas Kriukovas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-3 Andrius Mingaila
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-5 Elzė ir Vilius
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-6 Loreta Butkutė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-7 Raminta Simaite
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+￼V18-8 Markas, Mantas ir Kristina
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-9 Loreta Butkutė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-10 Barbara Katilovskaja
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-11 UAB Ramona Travel
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-12 Artur Romanovski
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-13 Gintarė ir Paulius
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-14 Valentinas Knyva
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-15 Druskininkų RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-16 Druskininkų RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-17 Druskininkų RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-18 Druskininkų RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-19 Druskininkų RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-20 Jonas Urbonas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-21 buhalteres.lt
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-22 buhalteres.lt
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-23 Rapolas Klyvis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-24 Arūnas Kriukas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-25 Lukas Burinskas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-26
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-27 Gabrielius Klyvis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-28 Advokatų profesinė bendrija FORT
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-29 Gabrielė Gegevičiūtė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-30 MoVictuS (Monika Stankevičienė)
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-31 AUTOAGENTAS (Marius Kuckailis)
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-32 Lukas Raudonaitis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-33 Havana Si
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-34 Agota Bakaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-35 Marijus Andrijauskas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-36 UAB „Northern Baltic”
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-37 UAB Baltic Engineers
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-38 UAB “Esemda”
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-39 Monika Vaitkūnė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-40 Mykolas ir Justė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-41 Rotary klubas “Vytis”
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-42 Augustas Bakas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-43 Graikijos Ambasada Lietuvoje
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-44 Speedway
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-45 Justinas Šimanskis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-46 Agnė ir Aurimas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-47
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-48 Aurelija ir Jordis Šatūnai
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-49 Kauno RAC
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-50 Kauno RAC
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-51 Felka
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-52 Edita Rusecka
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-53 Erika Aleksandrova-Rutkovskaja
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-54 Ieva Polonskaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-55 Inga ir Tomas Surdokai
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-56 Bitė Valiukonytė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-57 Rasa Sagė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-58 #sdsk
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-59 Justinas Mankus
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-60 Lukas Jonaitis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-61 Mindaugas Sezonas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-62 Vytautas Jomantas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-63 Laurynas Plisas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-64 #sdsk
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-65 Luknė Kuzmaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-66 Ričardas Pilitauskas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-67 Adomas Pugžlys
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-68 Advokatų kontora VEIRON
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-69 Raimondas Vižinis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-70 Agnė Povilavičiūtė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-71 Lietuvos Jaunųjų Advokatų Asociacija (LJAA)
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-72 Edvinas Meškys
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-73 Dalė Zuokienė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-74 Vytas Ramanauskas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-75 Liepa Alenskaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-76 Tamarytės inkilėlis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-77 Karaliaus Mindaugo RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-78 Oželių šeima
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-79 Mackonių šeima
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-80 Mažeikyčiai
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-81 Jonas ir Indrė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-82 Čiūtų šeima
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-83 Kristina ir Marijus
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-84 Jorūnė Pukinskienė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-85 Andrius Glazačiovas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-86 Gediminas Užubalis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-87 Giedrius Matulevičius
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-88 Justė Kraujelytė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-89
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-90 Vytis Paškevičius
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-91 Tauras Narmontas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-92
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-93
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-94 Karolina Romanovska
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-95
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-96 Žygimantas Lackus
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-97 Vita Lackuvienė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-98
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-99 Goda Gerasionytė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-100 Audrius
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-101 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-102 Gabrielė Kazlauskaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-103 Rokas Kazlauskas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-104 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-105 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-106 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-107 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-108 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-109 Gabija Gružinskaitė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-110 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-111 Kauno Hansa RH
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-112
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-113 Justina Barkauskaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-114 Simonas Jatulis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-115 Odilė Lileikytė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-116 Ieva Čiurlytė-Šulienė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-117
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-118
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-119 Žygimantas Bagonas
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-120 Edvinas Pranys
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-121 Relis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-122 Kauno RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-123 Kauno RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-124 Kauno RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-125 Kauno RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-126 Kauno RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-127 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-128 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-129 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-130 Kauno Hansa RK
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-131 CoinMine
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-132 CoinMine
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-133 Vytautas Buzas ir Karolina Baltuonytė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-134 CoinMine
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-135 CoinMine
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-136 CoinMine
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-137 Velykiai
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-138 Vilniaus RAC
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-139 Vingio terasa
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-140
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-141
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-142
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-143 Asta Mugenytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+￼V18-144 Patrikas Kaselis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-145 Jonė Babrauskaitė
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-146 Tomas Kalinauskas
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
+
+V18-147
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-148
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-149
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-150 Jean-Baptiste Daguené
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-151 Rumunijos Ambasada Lietuvoje
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+￼V18-152 EfTEN Capital
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
+V18-153 savininkas Asta Mugenytė
+Vieta: Asmeninė sodyba
+Pakabinta: 2018 04 28
