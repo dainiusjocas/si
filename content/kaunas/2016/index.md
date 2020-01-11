@@ -19,83 +19,25 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-Nr. K1 savininkas Lukas
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K2 savininkas Andrius Leonavicius
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K3 savininkas Vigintas Leonavičius
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K4 savininkas Paulius Boreika
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K5 savininkas Marius Janavičius
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K6 savininkas Vikintas Štaras
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K7 savininkas Pilietis Šarūnas
-￼Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K8 savininkai UAB “Signata”
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K9 savininkas Karolis Buika
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K10 savininkas Kasparas Žiūraitis
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K11 savininkas Arūnas S-tis
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K12 savininkas Vytautas Sa
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K13 savininkas Andrius Janušauskas
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K14 savininkai Rotary Klubas „Romuva“
-￼Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K15 savininkai Rotary Klubas „Romuva“
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K16 savininkai Rotary Klubas „Romuva“
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K17 savininkas Tadas Kertenis
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K18 savininkai Rotary Klubas „Romuva“
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K19 savininkai Rotary Klubas „Romuva“
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
-
-Nr. K20 savininkai UAB “New Generation Baltic”
-Vieta: Kauno Ąžuolyno parkas.
-Pakabinta: 2016 05 10
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|K1|Lukas|Kauno Ąžuolyno parkas|2016 05 10|                        
+|K2|Andrius Leonavicius|Kauno Ąžuolyno parkas|2016 05 10|          
+|K3|Vigintas Leonavičius|Kauno Ąžuolyno parkas|2016 05 10|         
+|K4|Paulius Boreika|Kauno Ąžuolyno parkas|2016 05 10|              
+|K5|Marius Janavičius|Kauno Ąžuolyno parkas|2016 05 10|            
+|K6|Vikintas Štaras|Kauno Ąžuolyno parkas|2016 05 10|              
+|K7|Pilietis Šarūnas|￼Kauno Ąžuolyno parkas|2016 05 10|            
+|K8|UAB “Signata”|Kauno Ąžuolyno parkas|2016 05 10|                
+|K9|Karolis Buika|Kauno Ąžuolyno parkas|2016 05 10|                
+|K10|Kasparas Žiūraitis|Kauno Ąžuolyno parkas|2016 05 10|          
+|K11|Arūnas S-tis|Kauno Ąžuolyno parkas|2016 05 10|                
+|K12|Vytautas Sa|Kauno Ąžuolyno parkas|2016 05 10|                 
+|K13|Andrius Janušauskas|Kauno Ąžuolyno parkas|2016 05 10|         
+|K14|Rotary Klubas „Romuva“|￼Kauno Ąžuolyno parkas|2016 05 10|     
+|K15|Rotary Klubas „Romuva“|Kauno Ąžuolyno parkas|2016 05 10|      
+|K16|Rotary Klubas „Romuva“|Kauno Ąžuolyno parkas|2016 05 10|      
+|K17|Tadas Kertenis|Kauno Ąžuolyno parkas|2016 05 10|              
+|K18|Rotary Klubas „Romuva“|Kauno Ąžuolyno parkas|2016 05 10|      
+|K19|Rotary Klubas „Romuva“|Kauno Ąžuolyno parkas|2016 05 10|      
+|K20|UAB “New Generation Baltic”|Kauno Ąžuolyno parkas|2016 05 10|
