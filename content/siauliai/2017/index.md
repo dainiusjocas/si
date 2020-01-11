@@ -19,6 +19,7 @@ output:
     number_sections: true
     toc_depth: 1
 ---
+
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
 |S17-1|Zigmas Vaitkevičius|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|

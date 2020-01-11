@@ -19,123 +19,35 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-
-Nr. B30 Robertas Filistovičius
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B29 savininkas Mindaugas Jonušas
-￼Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B28 savininkai linksmieji Cibulskiai
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B27 savininkas Domas Šiaudinis
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B26 savininkė Sandra Trinkūnaitė
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B25 savininkė Viktorija Navickaitė
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B24 savininkė Asta Domeikienė
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B23 savininkai globos vaikų namų aukėtiniai
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B22 savininkas Tomas Peleckas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B21 savininkas UAB KOSTAS
-￼Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B20 savininkė Rita Avelytė
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. 19 savininkas Edvinas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. 18 savininkas UAB TEGRA STATE
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. 17 savininkas UAB CHEESE HOUSE
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. 16 savininkas Vilniaus Geležinio Vilko Rotaract klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B15 savininkas Vilniaus m. sav. investicinių projektų skyrius
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B14 savininkas Vilniaus Rotaract klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B13 savininkas Klaipėdos Aditės Rotary klubas
-￼Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B12 savininkai Sakalauskai
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B11 savininkas Povilas Suodaitis
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B10 savininkas Šiaulių Rotary klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B9 savininkas Vilniaus Rotaract klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B8 savininkas Vilniaus Rotaract klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B7 savininkas Vilkyškis
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B6 savininkas Justas Zabolskis
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B5 savinikas visuomeninis judėjimas TAIP
-￼Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B4 savininkas Miroslovas Monkevičius
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B3 savininkas Vilniaus Rotaract klubas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-                                                                                                                                         Nr. B2 savininkai Vasara ir Mikas
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
-
-Nr. B1 savininkas Juozas Olekas ir anūkai
-Vieta: Bernardinų sodas.
-Pakabinta: 2014 05 03. Išvalyta: 2014 11 09.
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|B1|Juozas Olekas ir anūkai|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                        
+|B2|Vasara ir Mikas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                
+|B3|Vilniaus Rotaract klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                       
+|B4|Miroslovas Monkevičius|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                         
+|B5|visuomeninis judėjimas TAIP|￼Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                   
+|B6|Justas Zabolskis|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                               
+|B7|Vilkyškis|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                      
+|B8|Vilniaus Rotaract klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                       
+|B9|Vilniaus Rotaract klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                       
+|B10|Šiaulių Rotary klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                         
+|B11|Povilas Suodaitis|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                             
+|B12|Sakalauskai|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                   
+|B13|Klaipėdos Aditės Rotary klubas|￼Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|               
+|B14|Vilniaus Rotaract klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                      
+|B15|Vilniaus m. sav. investicinių projektų skyrius|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|
+|16|Vilniaus Geležinio Vilko Rotaract klubas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|       
+|17|UAB CHEESE HOUSE|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                               
+|18|UAB TEGRA STATE|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                
+|19|Edvinas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                        
+|B20|Rita Avelytė|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                  
+|B21|UAB KOSTAS|￼Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                   
+|B22|Tomas Peleckas|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                                
+|B23|globos vaikų namų aukėtiniai|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                  
+|B24|Asta Domeikienė|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                               
+|B25|Viktorija Navickaitė|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                          
+|B26|Sandra Trinkūnaitė|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                            
+|B27|Domas Šiaudinis|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                               
+|B28|linksmieji Cibulskiai|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                         
+|B29|Mindaugas Jonušas|￼Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|                            
+|B30|Robertas Filistovičius|Bernardinų sodas|2014 05 03 Išvalyta: 2014 11 09|"                       
