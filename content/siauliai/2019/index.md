@@ -20,79 +20,24 @@ output:
     toc_depth: 1
 ---
 
-
-ŠL1 MB “Lazeva”
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL2 Šiaulių Interact klubas
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL2 Stanislovas Vytautas Domeikis
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL3 Melita Gailytė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL4 Alma Klupšienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL5 Laura Eisenienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL6 Erika Čižiūnienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL7 Elvyra
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL8
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL9 Raimonda Gutkauskienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL10 Raimonda Gutkauskienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL11 Nijolė Melnikavičienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL12 Raimeda Bučinskytė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL13 Vitalija Šimkienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL14 Audronė Radavičienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL15 Diana Kanclirienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL16 Vitalija Grušienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL17 Dangira Čiuknienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
-
-ŠL18 Rosita Eidintienė
-Vieta: Burbiškio dvaras, Šiauliai
-Pakabinta: 2019-05-11/12
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|ŠL1|MB “Lazeva”|Burbiškio dvaras, Šiauliai|2019-05-11/12|                           
+|ŠL2|Šiaulių Interact klubas|Burbiškio dvaras, Šiauliai|2019-05-11/12|               
+|ŠL2|Stanislovas Vytautas Domeikis|Burbiškio dvaras, Šiauliai|2019-05-11/12|         
+|ŠL3|Melita Gailytė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                        
+|ŠL4|Alma Klupšienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                        
+|ŠL5|Laura Eisenienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                       
+|ŠL6|Erika Čižiūnienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                      
+|ŠL7|Elvyra|Burbiškio dvaras, Šiauliai|2019-05-11/12|                                
+|ŠL8||Burbiškio dvaras, Šiauliai|2019-05-11/12|                                      
+|ŠL9|Raimonda Gutkauskienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                 
+|ŠL10|Raimonda Gutkauskienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                
+|ŠL11|Nijolė Melnikavičienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                
+|ŠL12|Raimeda Bučinskytė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                   
+|ŠL13|Vitalija Šimkienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                    
+|ŠL14|Audronė Radavičienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                  
+|ŠL15|Diana Kanclirienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                    
+|ŠL16|Vitalija Grušienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                    
+|ŠL17|Dangira Čiuknienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|                    
+|ŠL18|Rosita Eidintienė|Burbiškio dvaras, Šiauliai|2019-05-11/12|
