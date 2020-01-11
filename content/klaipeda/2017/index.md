@@ -19,123 +19,35 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-Nr. KL1 savininkai Rotary Aditė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL2 savininkas Ąžuolas Juška
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL3 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL4 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL5 savininkai Klaipėdos Concordia 1826
-￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL6 savininkai Klaipėdos Concordia 1826
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL7 savininkė Dominyka
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL8 savininkė Olesia Žuravliova-Raustienė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL9 savininkas Valdas Raustys
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL10 savininkai UAB “Kongera”
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL11 savininkas Vykintas Zulonas
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL12
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL13 savininkai Klaipėdos r. Slengių mokykla – Daugiafunkcis Centras
-￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL14 savininkai UAB “Kamineros grupė”
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL15 savininkai Raimonda UAB “Didas”
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL16 savininkė Andželika Dirmontienė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL17 savininkė Virginija
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL18 savininkė Jurgita Činauskaitė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL19 savininkė Jurgita Činauskaitė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL20 savininkas Jurijus Proskurin
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL21 savininkas Jurijus Proskurin
-￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL22 savininkė Ugnė Raudytė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL23 savininkai Audrius ir Rūta Beliauskai
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL24 savininkai UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL25 savininkai UAB “Avola”
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL26 savininkai Agnė ir Giedrius Beliauskai
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL27
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL28
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL29
-￼Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
-
-Nr. KL30 savininkė Gabrielė Strigūnaitė
-Vieta: Danės skveras (kitoje Meridiano pusėje), Klaipėda.
-Pakabinta: 2017 05 21.
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|KL1|Rotary Aditė|Danės skveras, Klaipėda|2017 05 21|                                                       
+|KL2|Ąžuolas Juška|Danės skveras, Klaipėda|2017 05 21|                                                      
+|KL3|UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras|Danės skveras, Klaipėda|2017 05 21|             
+|KL4|UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras|Danės skveras, Klaipėda|2017 05 21|             
+|KL5|Klaipėdos Concordia 1826|￼Danės skveras, Klaipėda|2017 05 21|                                          
+|KL6|Klaipėdos Concordia 1826|Danės skveras, Klaipėda|2017 05 21|                                           
+|KL7|Dominyka|Danės skveras, Klaipėda|2017 05 21|                                                           
+|KL8|Olesia Žuravliova-Raustienė|Danės skveras, Klaipėda|2017 05 21|                                        
+|KL9|Valdas Raustys|Danės skveras, Klaipėda|2017 05 21|                                                     
+|KL10|UAB “Kongera”|Danės skveras, Klaipėda|2017 05 21|                                                     
+|KL11|Vykintas Zulonas|Danės skveras, Klaipėda|2017 05 21|                                                  
+|KL12||Danės skveras, Klaipėda|2017 05 21|                                                                  
+|KL13|Klaipėdos r. Slengių mokykla – Daugiafunkcis Centras|￼Danės skveras, Klaipėda|2017 05 21|             
+|KL14|UAB “Kamineros grupė”|Danės skveras, Klaipėda|2017 05 21|                                             
+|KL15|Raimonda UAB “Didas”|Danės skveras, Klaipėda|2017 05 21|                                              
+|KL16|Andželika Dirmontienė|Danės skveras, Klaipėda|2017 05 21|                                             
+|KL17|Virginija|Danės skveras, Klaipėda|2017 05 21|                                                         
+|KL18|Jurgita Činauskaitė|Danės skveras, Klaipėda|2017 05 21|                                               
+|KL19|Jurgita Činauskaitė|Danės skveras, Klaipėda|2017 05 21|                                               
+|KL20|Jurijus Proskurin|Danės skveras, Klaipėda|2017 05 21|                                                 
+|KL21|Jurijus Proskurin|￼Danės skveras, Klaipėda|2017 05 21|                                                
+|KL22|Ugnė Raudytė|Danės skveras, Klaipėda|2017 05 21|                                                      
+|KL23|Audrius ir Rūta Beliauskai|Danės skveras, Klaipėda|2017 05 21|                                        
+|KL24|UAB Klaipėdos Estetinės ir Lazerinės Medicinos Centras|Danės skveras, Klaipėda|2017 05 21|            
+|KL25|UAB “Avola”|Danės skveras, Klaipėda|2017 05 21|                                                       
+|KL26|Agnė ir Giedrius Beliauskai|Danės skveras, Klaipėda|2017 05 21|                                       
+|KL27||Danės skveras, Klaipėda|2017 05 21|                                                                  
+|KL28||Danės skveras, Klaipėda|2017 05 21|                                                                  
+|KL29||￼Danės skveras, Klaipėda|2017 05 21|                                                                 
+|KL30|Gabrielė Strigūnaitė|Danės skveras, Klaipėda|2017 05 21|                                  
