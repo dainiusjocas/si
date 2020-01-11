@@ -19,83 +19,25 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-S17-1 savininkas Zigmas Vaitkevičius 
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-2 savininkė Lina Daukšaitė 
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-3 savininkas Leonardas Karžinauskas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-4 savininkas Rokas Zapalskis
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-5 savininkas Saulius Jatautas 
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-6 savininkas Gintaras Gricius 
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-7 savininkas Stasys Lukys
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-8 savininkas Audrius Gricius
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-9 savininkas Mindaugas Šatkauskas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-10 savininkas Romualdas Slonskis
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-11 savininkė Gabrielė Stučkaitė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-12 savininkė Lina Daukšaitė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-13 savininkas Deividas Petrolevičius
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-14 savininkas Dovydas Garbačauskas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-15 savininkas Jonas Kungys
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-16 savininkė Loreta Šernienė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-17 savininkė Agnė Jarmalavičiūtė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-18 savininkas Tautvydas Gibieža
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-19 savininkas Deividas Berteška
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
-
-S17-20 savininkas Benas Dobrikas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2017 05 06.
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|S17-1|Zigmas Vaitkevičius|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-2|Lina Daukšaitė|￼Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-3|Leonardas Karžinauskas|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-4|Rokas Zapalskis|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-5|Saulius Jatautas|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-6|Gintaras Gricius|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-7|Stasys Lukys|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-8|Audrius Gricius|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-9|Mindaugas Šatkauskas|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-10|Romualdas Slonskis|￼Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-11|Gabrielė Stučkaitė|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-12|Lina Daukšaitė|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-13|Deividas Petrolevičius|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-14|Dovydas Garbačauskas|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-15|Jonas Kungys|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-16|Loreta Šernienė|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-17|Agnė Jarmalavičiūtė|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-18|Tautvydas Gibieža|￼Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-19|Deividas Berteška|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
+|S17-20|Benas Dobrikas|Kurtuvėnų miestelio dvaro sodybos parkas|2017 05 06|
