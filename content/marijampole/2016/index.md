@@ -20,82 +20,25 @@ output:
     toc_depth: 1
 ---
 
-Nr. M1 savininkas Algirdas Balčiūnas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M2 savininkas Nerijus Venerskas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M3 savininkas Andrius Kūlokas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M4 savininkai Kęstutis ir Daiva Jasaičiai
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M5 savininkas Šarūnas Tamašauskas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M6 savininkai Eglė Malonytė ir Marius Rusteika
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M7 savininkė Diana Latvaitytė
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M8 savininkai UAB „Club Baltica“
-￼Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M9 savininkė Asta Baškauskaitė
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M10 savininkas Norimantas Stankevičius
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M11 savininkas Audrius Bandzaitis
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M12 savininkas Kostas Jankauskas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M13 savininkas Darius Kemeraitis
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M14 savininkai Tulis ir Katulis
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M15 savininkas Andrius Jasinskis
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M16 savininkas Edgaras Neviera
-￼Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M17 savininkai Marijampolės regiono jaunųjų verslininkų klubas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M18 savininkai IĮ Renginių zona
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M19 savininkas Mykolas Kaminskas
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
-
-Nr. M20 savininkai UAB „Mavista“
-Vieta: Marijampolės Dramos teatro parkelis
-Pakabinta: 2016 05 21.
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
+|M1|Algirdas Balčiūnas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M2|Nerijus Venerskas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M3|Andrius Kūlokas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M4|Kęstutis ir Daiva Jasaičiai|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M5|Šarūnas Tamašauskas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M6|Eglė Malonytė ir Marius Rusteika|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M7|Diana Latvaitytė|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M8|UAB „Club Baltica“|￼Marijampolės Dramos teatro parkelis|2016 05 21|
+|M9|Asta Baškauskaitė|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M10|Norimantas Stankevičius|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M11|Audrius Bandzaitis|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M12|Kostas Jankauskas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M13|Darius Kemeraitis|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M14|Tulis ir Katulis|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M15|Andrius Jasinskis|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M16|Edgaras Neviera|￼Marijampolės Dramos teatro parkelis|2016 05 21|
+|M17|Marijampolės regiono jaunųjų verslininkų klubas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M18|IĮ Renginių zona|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M19|Mykolas Kaminskas|Marijampolės Dramos teatro parkelis|2016 05 21|
+|M20|UAB „Mavista“|Marijampolės Dramos teatro parkelis|2016 05 21|
