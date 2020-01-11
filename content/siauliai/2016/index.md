@@ -20,6 +20,8 @@ output:
     toc_depth: 1
 ---
 
+| Nr. | Savininkas | Vieta | Pakabinta |
+|-----|------------|-------|------|
 |S1|Laura Kungytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
 |S2|Simona Vitkauskienė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
 |S3|Aušrius Filipavičius|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
