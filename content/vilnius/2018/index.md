@@ -32,6 +32,10 @@ V18-3 Andrius Mingaila
 Vieta: Vilniaus Vingio parkas
 Pakabinta: 2018 04 28
 
+V18-4 Mykolas Klyvis
+Vieta: Vilniaus Vingio parkas
+Pakabinta: 2018 04 28
+
 V18-5 Elzė ir Vilius
 Vieta: Vilniaus Vingio parkas
 Pakabinta: 2018 04 28
