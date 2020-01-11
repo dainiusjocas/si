@@ -20,163 +20,43 @@ output:
     toc_depth: 1
 ---
 
-
-Nr. S1 savininkė Laura Kungytė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S2 savininkė Simona Vitkauskienė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S3 savininkas Aušrius Filipavičius
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S4 savininkė Živilė Karžinauskienė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S5 savininkas Orestas Grinys
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S6 savininkas Gedas Janėnas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S7
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S8 savininkas Deividas Berteška
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S9 savininkas Deividas Berteška
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S10 savininkė Danielė Macaitytė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S11 savininkas Adamas Karžinauskas
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S12 savininkė Ramutė Paškūnienė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S13 savininkas Vytautas Paškūnas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S14 savininkas Dovydas Garbačauskas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S15 savininkas Dovydas Garbačauskas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S16 savininkai Jūratė ir Aleksandras Lomajevai
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S17 savininkas Grazvydas Domeikis
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S18 savininkė Laura Kungytė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S19 savininkė Lina Daukšaitė
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S20 savininkė Lina Daukšaitė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S21 savininkas Laimis Skridaila
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S22 savininkas Laimis Skridaila
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S23 savininkė Ieva Taujene
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S24 savininkė Ieva Taujene
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S25 savininkė Ieva Augustauskaitė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S26 savininkė Ieva Augustauskaitė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S27 savininkas Deividas Petrolevičius
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S28 savininkas Deividas Petrolevičius
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S29 savininkas Benas Dobrikas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S30 savininkas Benas Dobrikas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S31 savininkas Rokas Zapalskis
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S32 savininkas Žygimantas Vozgirdas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S33 savininkas Rokas Zapalskis
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S34 savininkė Aistė Bugenytė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S35 savininkė Dalia Liolytė
-￼Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S36 savininkė Simona Janėnė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S37 savininkė Aistė Bugenytė
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S38 savininkas Dominykas Lomajevas
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S39 savininkė Miglė Devenson
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
-
-Nr. S40 savininkė Miglė Devenson
-Vieta: Kurtuvėnų miestelio dvaro sodybos parkas
-Pakabinta: 2016 05 10.
+|S1|Laura Kungytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S2|Simona Vitkauskienė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S3|Aušrius Filipavičius|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S4|Živilė Karžinauskienė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S5|Orestas Grinys|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S6|Gedas Janėnas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S7||Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S8|Deividas Berteška|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S9|Deividas Berteška|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S10|Danielė Macaitytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S11|Adamas Karžinauskas|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S12|Ramutė Paškūnienė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S13|Vytautas Paškūnas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S14|Dovydas Garbačauskas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S15|Dovydas Garbačauskas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S16|Jūratė ir Aleksandras Lomajevai|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S17|Grazvydas Domeikis|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S18|Laura Kungytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S19|Lina Daukšaitė|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S20|Lina Daukšaitė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S21|Laimis Skridaila|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S22|Laimis Skridaila|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S23|Ieva Taujene|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S24|Ieva Taujene|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S25|Ieva Augustauskaitė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S26|Ieva Augustauskaitė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S27|Deividas Petrolevičius|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S28|Deividas Petrolevičius|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S29|Benas Dobrikas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S30|Benas Dobrikas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S31|Rokas Zapalskis|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S32|Žygimantas Vozgirdas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S33|Rokas Zapalskis|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S34|Aistė Bugenytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S35|Dalia Liolytė|￼Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S36|Simona Janėnė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S37|Aistė Bugenytė|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S38|Dominykas Lomajevas|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S39|Miglė Devenson|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
+|S40|Miglė Devenson|Kurtuvėnų miestelio dvaro sodybos parkas|2016 05 10|
