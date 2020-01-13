@@ -25,9 +25,10 @@ date_format = "2006-01-02"
   date_start = "2019-03-27"
   date_end = "2019-04-27"
   description = """
-  192 inkilėlių:
+  212 inkilėlių:
 
   - [150 Vilniuje](vilnius/2019),
+  - 20 Kaune
   - [24 Klapėdoje](klaipeda/2019),
   - [18 Šiauliuose](siauliai/2019).
   """
