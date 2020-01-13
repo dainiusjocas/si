@@ -18,15 +18,24 @@ output:
     toc: true
     number_sections: true
     toc_depth: 1
+
+gallery_item:
+  - album: images
+    image: 1.jpg
+    caption: Lietuvos jaunųjų advokatų asociacija (LJAA)
+  - album: images
+    image: 2m.jpg
+    caption: Augustinas Mačionis|Sapieginės pažintinis takas
+  - album: images
+    image: 3.jpg
+    caption: TeleSoftas
 ---
-
-
 
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
-|V19-1|Lietuvos jaunųjų advokatų asociacija (LJAA)|Sapiegų rūmų parkas|2019-04-27|         
-|V19-2|Augustinas Mačionis|Sapieginės pažintinis takas|2019-04-27|                         
-|V19-3|TeleSoftas|Sapiegų rūmų parkas|2019-04-27|                                          
+|[V19-1](#gallery-images-1)|Lietuvos jaunųjų advokatų asociacija (LJAA)|Sapiegų rūmų parkas|2019-04-27|         
+|[V19-2](#gallery-images-2)|Augustinas Mačionis|Sapieginės pažintinis takas|2019-04-27|                         
+|[V19-3](#gallery-images-3)|TeleSoftas|Sapiegų rūmų parkas|2019-04-27|                                          
 |V19-4|Agnė Motuzaitė|Sapieginės pažintinis takas|2019-04-27|                              
 |￼V19-5|Lukas Burinskas|Sapieginės pažintinis takas|2019-04-27|                            
 |V19-6|Giedrius Medzevičius|Sapieginės pažintinis takas|2019-04-27|                        
@@ -153,4 +162,6 @@ output:
 |V19-148|Tomas Petras Rupšys|Sapieginės pažintinis takas|2019-04-27|                       
 |V19-149|Vladimiras Kolesovas|Asmeninė sodyba|2019-04-27|                                  
 |V19-150|Jūratė Kajackienė|Sapieginės pažintinis takas|2019-04-27|
-                        
+
+
+{{< gallery album="images" >}}
