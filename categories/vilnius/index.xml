@@ -9,19 +9,19 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>V19-1&lt;/td>
+&lt;td>&lt;a href="#gallery-images-1">V19-1&lt;/a>&lt;/td>
 &lt;td>Lietuvos jaunųjų advokatų asociacija (LJAA)&lt;/td>
 &lt;td>Sapiegų rūmų parkas&lt;/td>
 &lt;td>2019-04-27&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>V19-2&lt;/td>
+&lt;td>&lt;a href="#gallery-images-2">V19-2&lt;/a>&lt;/td>
 &lt;td>Augustinas Mačionis&lt;/td>
 &lt;td>Sapieginės pažintinis takas&lt;/td>
 &lt;td>2019-04-27&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>V19-3&lt;/td>
+&lt;td>&lt;a href="#gallery-images-3">V19-3&lt;/a>&lt;/td>
 &lt;td>TeleSoftas&lt;/td>
 &lt;td>Sapiegų rūmų parkas&lt;/td>
 &lt;td>2019-04-27&lt;/td>
@@ -783,7 +783,18 @@
 &lt;td>2019-04-27&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Vilnius 2018</title><link>https://www.jocas.lt/si/vilnius/2018/</link><pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/vilnius/2018/</guid><description>&lt;table>
+&lt;/table>
+&lt;div class="gallery">
+&lt;a data-fancybox="gallery-images" href="https://www.jocas.lt/si/si/vilnius/2019/images/1.jpg" data-caption="Lietuvos jaunųjų advokatų asociacija (LJAA)">
+&lt;img src="https://www.jocas.lt/si/si/vilnius/2019/images/1_hudbaf26b01a5c73a363ef13f6b77e697a_1587174_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-images" href="https://www.jocas.lt/si/si/vilnius/2019/images/2m.jpg" data-caption="Augustinas Mačionis|Sapieginės pažintinis takas">
+&lt;img src="https://www.jocas.lt/si/si/vilnius/2019/images/2m_huc09fd31ce9bb786d1041f70ffa59556f_1942085_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-images" href="https://www.jocas.lt/si/si/vilnius/2019/images/3.jpg" data-caption="TeleSoftas">
+&lt;img src="https://www.jocas.lt/si/si/vilnius/2019/images/3_hu353ece15f2a2bf46a3a9a4b21d35eaf1_1378794_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;/div></description></item><item><title>Vilnius 2018</title><link>https://www.jocas.lt/si/vilnius/2018/</link><pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/vilnius/2018/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Nr.&lt;/th>
