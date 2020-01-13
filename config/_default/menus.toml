@@ -88,28 +88,10 @@
   url = "kaunas/2016/"
 
 [[main]]
-  name = "2017"
-  parent = "kaunas"
-  identifier = "kaunas-2017"
-  url = "404"
-
-[[main]]
-  name = "2019"
-  parent = "kaunas"
-  identifier = "kaunas-2019"
-  url = "404"
-
-[[main]]
   name = "Klaipėda"
   identifier = "klaipeda"
   url = "404"
   weight = 40
-
-[[main]]
-  name = "2016"
-  parent = "klaipeda"
-  identifier = "klaipeda-2016"
-  url = "404"
 
 [[main]]
   name = "2017"
@@ -146,12 +128,6 @@
   parent = "siauliai"
   identifier = "siauliai-2017"
   url = "siauliai/2017/"
-
-[[main]]
-  name = "2018"
-  parent = "siauliai"
-  identifier = "siauliai-2018"
-  url = "404"
 
 [[main]]
   name = "2019"

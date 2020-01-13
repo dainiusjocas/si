@@ -25,12 +25,11 @@ date_format = "2006-01-02"
   date_start = "2019-03-27"
   date_end = "2019-04-27"
   description = """
-  X inkilėlių:
+  192 inkilėlių:
 
-  - A Vilniuje,
-  - B Kaune,
-  - C Klapėdoje,
-  - D Šiauliuose.
+  - [150 Vilniuje](vilnius/2019),
+  - [24 Klapėdoje](klaipeda/2019),
+  - [18 Šiauliuose](siauliai/2019).
   """
 
 [[experience]]
@@ -43,9 +42,9 @@ date_format = "2006-01-02"
   description = """ 
   218 inkilėlių:
 
-  - 153 Vilniuje,
+  - [153 Vilniuje](vilnius/2018),
   - 30 Kaune,
-  - 20 Klapėdoje,
+  - [20 Klapėdoje](klaipeda/2018),
   - 15 Šiauliuose."""
 
 [[experience]]
@@ -58,10 +57,10 @@ date_format = "2006-01-02"
   description = """ 
   250 inkilėlių:
 
-  - 175 Vilniuje,
+  - [175 Vilniuje](vilnius/2017),
   - 25 Kaune,
-  - 30 Klapėdoje,
-  - 20 Šiauliuose."""
+  - [30 Klapėdoje](klaipeda/2017),
+  - [20 Šiauliuose](siauliai/2017)."""
 
 [[experience]]
   title = "2016"
@@ -73,10 +72,10 @@ date_format = "2006-01-02"
   description = """ 
   240 inkilėlių:
 
-  - 160 Vilniuje,
-  - 20 Kaune,
-  - 20 Marijampolėje,
-  - 40 Šiauliuose."""
+  - [160 Vilniuje](vilnius/2016),
+  - [20 Kaune](kaunas/2016),
+  - [20 Marijampolėje](marijampole/2016),
+  - [40 Šiauliuose](siauliai/2016)."""
 
 [[experience]]
   title = "2015"
@@ -85,7 +84,7 @@ date_format = "2006-01-02"
   location = "Vilnius"
   date_start = "2015-03-27"
   date_end = "2015-04-27"
-  description = """Kalnų parke ir Bernardinų sode – 100 inkilėlių."""
+  description = """Kalnų parke ir Bernardinų sode – [100 inkilėlių](vilnius/2015)."""
 
 [[experience]]
   title = "2014"
@@ -94,7 +93,7 @@ date_format = "2006-01-02"
   location = "Vilnius"
   date_start = "2014-03-27"
   date_end = "2014-04-27"
-  description = """Bernardinų sode – 30 inkilėlių."""
+  description = """Bernardinų sode – [30 inkilėlių](vilnius/2014)."""
 
 [[experience]]
   title = "2013"
