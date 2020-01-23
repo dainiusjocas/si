@@ -29,7 +29,7 @@ date_format = "2006-01-02"
 
   - [150 Vilniuje](vilnius/2019),
   - 20 Kaune
-  - [24 Klapėdoje](klaipeda/2019),
+  - [24 Klaipėdoje](klaipeda/2019),
   - [18 Šiauliuose](siauliai/2019).
   """
 
@@ -45,7 +45,7 @@ date_format = "2006-01-02"
 
   - [153 Vilniuje](vilnius/2018),
   - 30 Kaune,
-  - [20 Klapėdoje](klaipeda/2018),
+  - [20 Klaipėdoje](klaipeda/2018),
   - 15 Šiauliuose."""
 
 [[experience]]
@@ -60,7 +60,7 @@ date_format = "2006-01-02"
 
   - [175 Vilniuje](vilnius/2017),
   - 25 Kaune,
-  - [30 Klapėdoje](klaipeda/2017),
+  - [30 Klaipėdoje](klaipeda/2017),
   - [20 Šiauliuose](siauliai/2017)."""
 
 [[experience]]
