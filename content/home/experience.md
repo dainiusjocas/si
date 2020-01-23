@@ -103,5 +103,5 @@ date_format = "2006-01-02"
   location = "Vilnius"
   date_start = "2013-03-27"
   date_end = "2013-04-27"
-  description = """Kalnų parke pakabinome – 15 ikilėlių."""
+  description = """Kalnų parke pakabinome – 15 inkilėlių."""
 +++
