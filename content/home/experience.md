@@ -28,7 +28,7 @@ date_format = "2006-01-02"
   212 inkilėlių:
 
   - [150 Vilniuje](vilnius/2019),
-  - 20 Kaune
+  - 20 Kaune,
   - [24 Klaipėdoje](klaipeda/2019),
   - [18 Šiauliuose](siauliai/2019).
   """
@@ -103,5 +103,5 @@ date_format = "2006-01-02"
   location = "Vilnius"
   date_start = "2013-03-27"
   date_end = "2013-04-27"
-  description = """Kalnų parke pakabinome – 15 inkilėlių."""
+  description = """Kalnų parke – 15 inkilėlių."""
 +++
