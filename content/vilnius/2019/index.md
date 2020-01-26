@@ -409,6 +409,8 @@ gallery_item:
     caption: Jūratė Kajackienė
 ---
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1m4SU_-7KliNkAmzn3nc10sZ2u3yVEkVO" width="640" height="480"></iframe>
+
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
 |[V19-1](#gallery-images-1)|Lietuvos jaunųjų advokatų asociacija (LJAA)|Sapiegų rūmų parkas|2019-04-27|         
