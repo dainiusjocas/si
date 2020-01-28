@@ -45,7 +45,123 @@ el.p. klaipeda@sekmesinkilelis.lt &lt;br />
 &lt;p>Kaip tai vyksta? Kiekvieną pavasarį šimtai žmonių, įmonių bei asociacijų įsigydami „Sėkmės inkilėlį“ ar „Sėkmės apyrankę“ prisideda prie projekto fondo, iš kurio yra remiami jaunieji Lietuvos talentai – dainininkai, mokslininkai, sportininkai, dailininkai ir kiti aktyvūs jauni žmonės. Už surinktas lėšas yra perkami instrumentai, dailės priemonės, finansuojami tarptautiniai konkursai ir teikiama kita parama, kuri leidžia talentams skleistis.&lt;/p>
 &lt;p>Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę. Tai padaryti gali &lt;a href="../kaip-isigyti/">ČIA&lt;/a>.&lt;/p>
 &lt;p>Turi klausimų? Susisiek su mumis &lt;a href="../../#contact">ČIA&lt;/a>.&lt;/p>
-&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../informacija/kaip-isigyti/">ČIA&lt;/a>.&lt;/p></description></item><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti/</guid><description/></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/informacija/paraiska/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/paraiska/</guid><description>&lt;h1 id="todo">TODO&lt;/h1></description></item><item><title>Talentai</title><link>https://www.jocas.lt/si/informacija/talentai/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/talentai/</guid><description>&lt;h3 id="2015">2015&lt;/h3>
+&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../informacija/kaip-isigyti/">ČIA&lt;/a>.&lt;/p></description></item><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti/</guid><description>&lt;div>
+&lt;div id="product-component-1575718950737">&lt;/div>
+&lt;script type="text/javascript">
+/*&lt;![CDATA[*/
+(function() {
+var scriptURL =
+"https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js";
+if (window.ShopifyBuy) {
+if (window.ShopifyBuy.UI) {
+ShopifyBuyInit();
+} else {
+loadScript();
+}
+} else {
+loadScript();
+}
+function loadScript() {
+var script = document.createElement("script");
+script.async = true;
+script.src = scriptURL;
+(
+document.getElementsByTagName("head")[0] ||
+document.getElementsByTagName("body")[0]
+).appendChild(script);
+script.onload = ShopifyBuyInit;
+}
+function ShopifyBuyInit() {
+var client = ShopifyBuy.buildClient({
+domain: "sekmes-inkilelis.myshopify.com",
+storefrontAccessToken: "6de914b8c6faf16df5080f4b9adea0fe"
+});
+ShopifyBuy.UI.onReady(client).then(function(ui) {
+ui.createComponent("product", {
+id: "4376514986123",
+node: document.getElementById(
+"product-component-1575718950737"
+),
+moneyFormat:
+"%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D",
+options: {
+product: {
+styles: {
+product: {
+"@media (min-width: 601px)": {
+"max-width": "100%",
+"margin-left": "0",
+"margin-bottom": "50px"
+},
+"text-align": "left"
+},
+title: {
+"font-size": "26px"
+},
+price: {
+"font-size": "18px"
+},
+compareAt: {
+"font-size": "15.299999999999999px"
+}
+},
+buttonDestination: "checkout",
+layout: "horizontal",
+contents: {
+img: false,
+imgWithCarousel: true,
+button: false,
+buttonWithQuantity: true,
+description: true
+},
+width: "100%",
+text: {
+button: "Pirkti"
+}
+},
+productSet: {
+styles: {
+products: {
+"@media (min-width: 601px)": {
+"margin-left": "-20px"
+}
+}
+}
+},
+modalProduct: {
+contents: {
+img: false,
+imgWithCarousel: true,
+button: false,
+buttonWithQuantity: true
+},
+styles: {
+product: {
+"@media (min-width: 601px)": {
+"max-width": "100%",
+"margin-left": "0px",
+"margin-bottom": "0px"
+}
+}
+},
+text: {
+button: "Add to cart"
+}
+},
+cart: {
+text: {
+total: "Subtotal",
+button: "Checkout"
+}
+}
+}
+});
+});
+}
+})();
+/*]]>*/
+&lt;/script>
+&lt;/div></description></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/informacija/paraiska/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/paraiska/</guid><description>&lt;h1 id="todo">TODO&lt;/h1></description></item><item><title>Talentai</title><link>https://www.jocas.lt/si/informacija/talentai/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/talentai/</guid><description>&lt;h3 id="2015">2015&lt;/h3>
 &lt;p>2015-aisias rėmėme jauną talentingą muzikantą – Mindaugą Žiūką, padovanodami jam akordeoną (vertė – 2500 eur).&lt;/p>
 &lt;h4 id="trumpai-apie-mindaug-ik">Trumpai apie Mindaugą Žiūką&lt;/h4>
 &lt;p>Mindaugas – septyniolikmetis Raseinių Žemaičio gimnazijos mokinys. Gyvena Betygalos miestelyje (apie 27 km nuo Raseinių) su seneliu, be tėvų. Mindaugas pats nusprendė, kad po 8 klasių nori mokytis gimnazijoje – įtikino senelį, kad leistų, nes senelis gana senamadiškų pažiūrų ir iš pradžių tam nepritarė. Mindaugas kasdien važinėja į gimnaziją ir iš jos. Tiek gimnazijos direktorius, tiek mokytojai atsiliepė kaip apie labai atsakingą ir besistengiantį jaunuolį.&lt;/p>
