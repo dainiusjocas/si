@@ -20,60 +20,121 @@ output:
     toc_depth: 1
 ---
 
+<div>
+  <div id="product-component-1575718950737"></div>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var scriptURL =
+        "https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js";
+      if (window.ShopifyBuy) {
+        if (window.ShopifyBuy.UI) {
+          ShopifyBuyInit();
+        } else {
+          loadScript();
+        }
+      } else {
+        loadScript();
+      }
+      function loadScript() {
+        var script = document.createElement("script");
+        script.async = true;
+        script.src = scriptURL;
+        (
+          document.getElementsByTagName("head")[0] ||
+          document.getElementsByTagName("body")[0]
+        ).appendChild(script);
+        script.onload = ShopifyBuyInit;
+      }
+      function ShopifyBuyInit() {
+        var client = ShopifyBuy.buildClient({
+          domain: "sekmes-inkilelis.myshopify.com",
+          storefrontAccessToken: "6de914b8c6faf16df5080f4b9adea0fe"
+        });
+        ShopifyBuy.UI.onReady(client).then(function(ui) {
+          ui.createComponent("product", {
+            id: "4376514986123",
+            node: document.getElementById(
+              "product-component-1575718950737"
+            ),
+            moneyFormat:
+              "%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D",
+            options: {
+              product: {
+                styles: {
+                  product: {
+                    "@media (min-width: 601px)": {
+                      "max-width": "100%",
+                      "margin-left": "0",
+                      "margin-bottom": "50px"
+                    },
+                    "text-align": "left"
+                  },
+                  title: {
+                    "font-size": "26px"
+                  },
+                  price: {
+                    "font-size": "18px"
+                  },
+                  compareAt: {
+                    "font-size": "15.299999999999999px"
+                  }
+                },
+                buttonDestination: "checkout",
+                layout: "horizontal",
+                contents: {
+                  img: false,
+                  imgWithCarousel: true,
+                  button: false,
+                  buttonWithQuantity: true,
+                  description: true
+                },
+                width: "100%",
+                text: {
+                  button: "Pirkti"
+                }
+              },
+              productSet: {
+                styles: {
+                  products: {
+                    "@media (min-width: 601px)": {
+                      "margin-left": "-20px"
+                    }
+                  }
+                }
+              },
+              modalProduct: {
+                contents: {
+                  img: false,
+                  imgWithCarousel: true,
+                  button: false,
+                  buttonWithQuantity: true
+                },
+                styles: {
+                  product: {
+                    "@media (min-width: 601px)": {
+                      "max-width": "100%",
+                      "margin-left": "0px",
+                      "margin-bottom": "0px"
+                    }
+                  }
+                },
+                text: {
+                  button: "Add to cart"
+                }
+              },
+              cart: {
+                text: {
+                  total: "Subtotal",
+                  button: "Checkout"
+                }
+              }
+            }
+          });
+        });
+      }
+    })();
+    /*]]>*/
+  </script>
 
-Inkilėlius galite įsigyti iki balandžio 23 dienos.
-
-Parašykite mums žinutę, kad norite inkilėlio ir mes jį Jums rezervuosime. Inkilėlio kaina – 15 Eur, įmonėms – 30 eur.
-
-<table>
-<tbody>
-  <tr>
-    <td colspan="3"><b>VILNIUJE</b></td>
-  </tr>
-  <tr>
-    <td>Jei norite įsigyti inkilėlį, kuris kabės Vilniuje, susisiekite el.p. vilnius@sekmesinkilelis.lt, 8 687 83493. Laiške nurodykite savininko vardą.</td>
-    <td rowspan="2"><img src="logo-be-fono-205x300.png"></td>
-  </tr>
-  <tr>
-    <td>Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” <br />
-A/S: LT84 7300 0101 4243 9552 AB “Swedbank”<br />
-Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė)</td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>ŠIAULIUOSE</b></td>
-  </tr>
-  <tr>
-    <td>Jei norite įsigyti inkilėlį, kuris kabės Šiauliuose, susisiekite el.p. siauliai@sekmesinkilelis.lt, 8 673 46403. Laiške nurodykite savininko vardą.</td>
-    <td rowspan="2"><img src="Siauliu-RAC-logo-1-217x300.png"></td>
-  </tr>
-  <tr>
-    <td>Asociacija „Šiaulių Auksinio Rato Rotaract klubas“<br />
-A/S: LT947180000001700070 AB “Šiaulių bankas”<br />
-Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė)</td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>KAUNE</b></td>
-  </tr>
-  <tr>
-    <td>Jei norite įsigyti inkilėlį, kuris kabės Kaune, susisiekite el.p. kaunas@sekmesinkilelis.lt, 8 613 99913. Laiške nurodykite savininko vardą.</td>
-    <td rowspan="2"><img src="kauno-tvirtove.png"></td>
-  </tr>
-  <tr>
-    <td>Asociacija „Kauno Tvirtovės Rotaract klubas“ <br />
-A/S: LT374010051001794230, DnB Bankas <br />
-Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė)</td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>KLAIPĖDOJE</b></td>
-  </tr>
-  <tr>
-    <td>Jei norite įsigyti inkilėlį, kuris kabės Klaipėdoje, susisiekite el.p. klaipeda@sekmesinkilelis.lt, 8 653 30601. Laiške nurodykite savininko vardą.</td>
-    <td rowspan="2"><img src="Klaipedos-senamiescio-RAC-logo-276x300.png"></td>
-  </tr>
-  <tr>
-    <td>Asociacija „Klaipėdos Senamiesčio Rotaract klubas“ <br />
-A/S: LT987044060000585281, SEB bankas<br />
-Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė)
-  </tr>
-</tbody>
-</table> 
+</div>
