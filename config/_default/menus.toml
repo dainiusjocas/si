@@ -40,6 +40,19 @@
   url = "informacija/kontaktai/"
 
 [[main]]
+  name = "Talentai"
+  identifier = "talentu-skyrius"
+  url = "talentai/"
+  weight = 11
+
+[[main]]
+  name = "2019"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2019"
+  url = "talentai/2019/"
+
+
+[[main]]
   name = "Vilnius"
   identifier = "vilnius"
   url = "#posts"
