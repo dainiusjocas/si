@@ -34,6 +34,12 @@
   url = "informacija/paraiska/"
 
 [[main]]
+  name = "Kontaktai"
+  parent = "informacija"
+  identifier = "kontaktai"
+  url = "informacija/kontaktai/"
+
+[[main]]
   name = "Vilnius"
   identifier = "vilnius"
   url = "#posts"

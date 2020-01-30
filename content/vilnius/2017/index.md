@@ -19,6 +19,9 @@ output:
     number_sections: true
     toc_depth: 1
 ---
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pUmINe3Hf3Q5BKlmrkna9CQJEhU" width="640" height="480"></iframe>
+
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
 |V1|Dovydas Statulevičius|Vilniaus Vingio parkas|2017 04 29|                                    

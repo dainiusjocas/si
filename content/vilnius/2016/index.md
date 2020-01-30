@@ -19,6 +19,9 @@ output:
     number_sections: true
     toc_depth: 1
 ---
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OYTuZxRsvrP2NlBFnikGzCC01Pc" width="640" height="480"></iframe>
+
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
 |V1|Vilnius International Rotaract Club|Vilniaus Vingio parkas|2016 05 07|                                     
