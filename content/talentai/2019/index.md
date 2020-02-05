@@ -1,7 +1,7 @@
 ---
 aliases: [siauliai-2016]
 projects: [sekmes-inkilelis]
-title: Šiauliai 2016
+title: Talentai 2019
 # authors: [Dainius Jocas]
 date: '2016-05-10'
 tags: []
@@ -19,4 +19,8 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-talentai
+<p>Viena iš projekto talenčių – itin motyvuota ir darbšti mergina, grojanti kanklėmis. Muzikinį kelią ji pradėjo būdama šešerių,  o savo talentą ugdo Balio Dvariono muzikos mokykloje, į kurią tėtis ją vežioja iš Švenčionėlių, iki kurių net 100km į vieną pusę. Jos repertuare yra Magistro studijų programos kūriniai, su kuriais ji žavi publiką ne tik Lietuvoje, bet ir užsienyje, kur yra tapusi ne vieno konkurso laureate. Prie galimybės išvykti į konkursą prisidėjo ir „Sėkmės inkilėlio“ parama  (500 eur).</p>
+<p>Kitas projekto talentas -  12 metų muzikantas iš Plungės, kurio darbštumo dėka jis jau groja fortepijonu  ir trombonu.  Kiekvieną laisvo laiko minutę berniukas atiduoda naujų muzikos kūrinių  mokymuisi, koncertams bei konkursams,  naujai išmokta muzika jis taip pat dalinasi savo youtube kanale. Dalyvavimas konkursuose, kurie yra labai svarbūs muzikanto profesiniam tobulėjimui, pareikalauja nemažų išlaidų, tad dalis projekto surinktų lėšų – 500 eur – suteikė galimybę berniukui siekti tarptautinio pripažinimo. </p>
+<p>Dar viena Sėkmės inkilėlio talentė – pianistė iš Klaipėdos. Fortepijonu groti pradėjusi dar vaikystėje, šiandien ji mokosi Juozo Karoso muzikos mokykloje bei yra tapusi ne vieno tarptautinio konkurso laureate. Meilę muzikai padėjo atrasti jos mama, kuri dirba fortepijono mokytoja toje pačioje mokykloje. Merginos talentui vystytis labiausiai trūko galimybės dalyvauti tarptautiniuose konkursuose, todėl  projekto Sėkmės inkilėlis dėka buvo skirta 530 eur. </p>
+Projekto remtu talentu tapo ir jaunasis menininkas iš Šiaulių, kuriam už 450 eur buvo padovanotas  garsų efektų procesorius (angl. Looper). Vaikinas dainuoja, groja gitara, turi subūręs muzikinę grupę, su kuria dalyvauja įvairiuose pasirodymuose ir konkursuose Lietuvoje, atlieka savo kūrybos bei patriotines dainas.
+
