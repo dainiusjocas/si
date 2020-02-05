@@ -40,6 +40,43 @@
   url = "informacija/kontaktai/"
 
 [[main]]
+  name = "Talentai"
+  identifier = "talentu-skyrius"
+  url = "talentai/"
+  weight = 11
+
+[[main]]
+  name = "2019"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2019"
+  url = "talentai/2019/"
+
+[[main]]
+  name = "2018"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2018"
+  url = "talentai/2018/" 
+
+[[main]]
+  name = "2017"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2017"
+  url = "talentai/2017/" 
+  
+[[main]]
+  name = "2016"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2016"
+  url = "talentai/2016/"
+
+[[main]]
+  name = "2015"
+  parent = "talentu-skyrius"
+  identifier = "talentai-2015"
+  url = "talentai/2015/"
+
+
+[[main]]
   name = "Vilnius"
   identifier = "vilnius"
   url = "#posts"

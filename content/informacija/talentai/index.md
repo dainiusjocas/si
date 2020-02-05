@@ -43,7 +43,7 @@ Mindaugo akardeono mokytoja Zita Žemaitienė nurodė, kad Mindaugas geriausias 
 ### 2017
 
 2017-aisiais parėmėme:
-- Vilkaviškio muzikos mokyklos mokinius (vertė – 1000 eur). Paramos tikslas yra padėti padengti talentingų Vilkaviškio rajono vaikų dalyvavimo įvairiuose konkursuose išlaidas.
+- Vilkaviškio muzikos mokyklos mokinius (vertė – 1000 eur). Paramos tikslas- padėti padengti talentingų Vilkaviškio rajono vaikų dalyvavimo įvairiuose konkursuose išlaidas.
 - Video klipo kūrėjus iš Šiaulių (vertė – 500 eur). Filmukas čia – http://bit.ly/2BjmcwD. Filmuką kūrė jaunasis talentas kartu su merginų grupe „Sakuros“, o jis skirtas tiems mažiesiems angelams, kurie gimė gyventi, bet dėl patirto smurto išėjo labai per anksti. Filmukas perduotas nevyriausybinėms ir kitoms organizacijoms, kurios užsiima parama našlaičiams, vienišų mamų socialinių įgūdžių ugdymu.
 - Klaipėdos Vaikų dienos centrą „Dienvidis“ (vertė – 430 eur).
 
