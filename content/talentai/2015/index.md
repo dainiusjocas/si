@@ -1,13 +1,13 @@
 ---
-aliases: [siauliai-2016dscsd]
+aliases: [talentai-2015]
 projects: [sekmes-inkilelis]
 title: Talentai 2015
 # authors: [Dainius Jocas]
-date: '2016-05-10'
+date: '2020-02-05'
 tags: []
 categories:
-  - Šiauliai
-summary: Inkilėliai pakabinti 2016 metais Šiauliai
+  - Talentai
+summary: 2015 metais talentams skirta parama
 image:
   focal_point: "Center"
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
