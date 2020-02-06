@@ -1,13 +1,13 @@
 ---
-aliases: [siauliai-2016]
+aliases: [talentai-2019]
 projects: [sekmes-inkilelis]
 title: Talentai 2019
 # authors: [Dainius Jocas]
-date: '2016-05-10'
+date: '2020-02-05'
 tags: []
 categories:
-  - Šiauliai
-summary: Inkilėliai pakabinti 2016 metais Šiauliai
+  - Talentai
+summary: 2019 metais talentams skirta parama
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
