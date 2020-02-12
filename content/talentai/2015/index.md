@@ -19,4 +19,5 @@ output:
     number_sections: true
     toc_depth: 1
 ---
+
 Parama buvo skirta talentingam 17 metų akardeonistui  iš Raseinių rajono, kuris kasdien važinėjo į Raseinių meno mokyklą repetuoti, nes neturėjo savo instrumento. Projekto „Sėkmės inkilėlis“  metu surinkta suma (2900eur)buvo skirta instrumento įsigyjimui. Naujas instrumentas talentingam jaunuoliui suteikė galimybę lavinti muzikinius gabumus savarankiškai. Kaip padėką už suteiktą galimybę tobulėti, vaikinas surengė padėkos koncertą Vilniaus mokytojų namuose. 

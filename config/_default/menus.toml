@@ -21,11 +21,6 @@
   identifier = "kaip-isigyti"
   url = "informacija/kaip-isigyti/"
 
-[[main]]
-  name = "Talentai"
-  parent = "informacija"
-  identifier = "talentai"
-  url = "informacija/talentai/"
 
 [[main]]
   name = "Paraiška"

@@ -19,4 +19,9 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-Parama buvo skirta talentingam 17 metų akardeonistui  iš Raseinių rajono, kuris kasdien važinėjo į Raseinių meno mokyklą repetuoti, nes neturėjo savo instrumento. Projekto „Sėkmės inkilėlis“  metu surinkta suma (2900eur)buvo skirta instrumento įsigyjimui. Naujas instrumentas talentingam jaunuoliui suteikė galimybę lavinti muzikinius gabumus savarankiškai. Kaip padėką už suteiktą galimybę tobulėti, vaikinas surengė padėkos koncertą Vilniaus mokytojų namuose.
+
+<p>Projekto parama buvo skirta dviems jaunosioms dailininkėms iš Trakų rajono. Savo miestelyje merginos neturėjo pakankamai galimybių tobulėti ir svajojo kada nors išvykti į Vilnių mokytis ir gilinti meno žinių. Už Sėkmės inkilėlio projekto metu surinktas lėšas merginos lankė savaitgalinius akademinio piešimo, kompozicijos ir spalvos parengiamuosius kursus Vilniaus dizaino kolegijoje, taip pat buvo parūpintos visos reikalingos priemonės tiek kursams, tiek ir praktikavimuisi namuose (bendra suma – 700 eur).  Atsidėkodamos projektui 2019 m. inkilėlius menininkės papuošė savo  piešiniais, o viena iš merginų šiuo metu jau studijuoja Vilniaus dailės akademijoje.</p>
+
+<p>Džiazinio dainavimo mokinei iš Klaipėdos „Sėkmės inkilėlis“ padovanojo mikrofoną, kurio vertė 300 eurų. 
+150 eur buvo prisidėta prie jauno vaikino magistro studijų  Imperial College London. Čia vaikinas gilina žinias dirbtinio intelekto srityje, tyrinėja, kaip teigiamų ir neigiamų grįžtamųjų signalų pagalba galima išmokyti algoritmus atlikti užduotis įvairiose aplinkose. </p>
+
