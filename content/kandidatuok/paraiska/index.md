@@ -104,7 +104,7 @@ output:
     <label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):</label>
     <input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
     <label for="tevu-globeju-sutikimas">Tėvų (ar teisėtų atstovų) sutikimas dalyvauti konkurse, jei dalyviui mažiau nei 18 metų:</label>
-    <input type="text" name="tevu-globeju-sutikimas" id="tevu-globeju-sutikimas" placeholder="" required="">
+    <input type="file" id="tevu-globeju-sutikimas" name="tevu-globeju-sutikimas">
     <label for="veiklos-sritis">Veikos sritis, dėl kurios teikiama paraiška paramai gauti</label>
     <select name="veiklos-sritis" id="veiklos-sritis" required="true">
       <option value="Choose" selected="" disabled="">Pasirinkti</option>
@@ -125,6 +125,8 @@ output:
     <input type="checkbox" id="informacija-teisinga" name="informacija-teisinga" value="informacija-teisinga" />Patvirtinu, kad aukščiau pateikta informacija yra teisinga, man yra žinoma, kad pateikęs neteisingą informaciją neturėsiu galimybės dalyvauti šiame ir kituose Sėkmės inkilėlio projektuose:</label>
     <label for="susipazinau">
     <input type="checkbox" id="susipazinau" name="susipazinau" value="susipazinau" />Patvirtinu, kad susipažinau su informacija apie mano asmens duomenų tvarkymą. Su informacija apie duomenų tvarkymą galima susipažinti [nuoroda]:</label>
+    <input type="file" id="dokumentai" name="dokumentai">
+    <label for="veiklos-sritis">Dokumentai, patvirtinantys jaunuolio dalyvavimą veiklos srityje (pvz., pažyma iš švietimo įstaigos, rekomendacija)</label>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio paraiška">
   </fieldset>
   <input type="submit" value="Siųsti" />
