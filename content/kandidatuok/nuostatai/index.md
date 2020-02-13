@@ -1,13 +1,13 @@
 ---
 aliases: [nuostatai-2020]
 projects: [sekmes-inkilelis]
-title: Nuostatai
+title: Sėkmės inkilėlio parama gabiam ir talentingam jaunimui 
 # authors: [Dainius Jocas]
 date: '2020-02-05'
 tags: []
 categories:
   - Kandidatuok
-summary: Nuostatai dėl kandidatavimo
+summary: SĖKMĖS INKILĖLIO PARAMA GABIAM IR TALENTINGAM JAUNIMUI
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
@@ -19,8 +19,6 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
-## SĖKMĖS INKILĖLIO PARAMA GABIAM IR TALENTINGAM JAUNIMUI
 
 Esi talentingas ar turi išskirtinių gabumų mokslo, inovacijų, meno, sporto, visuomeniškumo, ar kitoje srityje?
 
