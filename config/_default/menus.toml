@@ -4,6 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "KANDIDATUOK"
+  identifier = "kandidatuok"
+  url = "kandidatuok/"
+  weight = 9
+
+[[main]]
+  name = "Nuostatai"
+  parent = "kandidatuok"
+  identifier = "kandidatuok-nuostatai"
+  url = "kandidatuok/nuostatai/"
+
+[[main]]
+  name = "PARAIŠKA"
+  parent = "kandidatuok"
+  identifier = "kandidatuok-paraiska"
+  url = "kandidatuok/paraiska/"
+
+[[main]]
   name = "Informacija"
   identifier = "informacija"
   url = "informacija/"
