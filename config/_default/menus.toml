@@ -16,6 +16,12 @@
   url = "kandidatuok/nuostatai/"
 
 [[main]]
+  name = "PARAIŠKA"
+  parent = "kandidatuok"
+  identifier = "kandidatuok-paraiska"
+  url = "kandidatuok/paraiska/"
+
+[[main]]
   name = "Informacija"
   identifier = "informacija"
   url = "informacija/"
