@@ -20,7 +20,7 @@ output:
     toc_depth: 1
 ---
 
-<form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/xjvwljke" method="post">
+<form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" netlify>
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Vardas, Pavardė:</label>
     <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
