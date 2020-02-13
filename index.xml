@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/</link><atom:link href="https://www.jocas.lt/si/index.xml" rel="self" type="application/rss+xml"/><description>Sėkmės inkilėlis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/cropped-logo2.jpg</url><title>Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/</link></image><item><title>Paraiška</title><link>https://www.jocas.lt/si/kandidatuok/gparaiska/</link><pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/kandidatuok/gparaiska/</guid><description>&lt;p>Užpildykite paraišką paramai gauti:&lt;/p>
 &lt;p>&lt;a href="https://www.jocas.lt/si/si/files/anketa.sekmes-inkilelis.2020-01-30.pdf">Atsisiųskite paraišką &lt;code>pdf&lt;/code> formatu&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.jocas.lt/si/si/files/anketa.sekmes-inkilelis.2020-01-30.docx">Atsisiųskite paraišką &lt;code>docx&lt;/code> formatu&lt;/a>&lt;/p>
-&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDCRkcNooZq9P4jR9W-GIt3NC78R3HkaEdNahLlM1iyB6Lug/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…&lt;/iframe></description></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/kandidatuok/paraiska/</link><pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/kandidatuok/paraiska/</guid><description>&lt;form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/xjvwljke" method="post">
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDCRkcNooZq9P4jR9W-GIt3NC78R3HkaEdNahLlM1iyB6Lug/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…&lt;/iframe></description></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/kandidatuok/paraiska/</link><pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/kandidatuok/paraiska/</guid><description>&lt;form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" netlify>
 &lt;fieldset id="fs-frm-inputs">
 &lt;label for="full-name">Vardas, Pavardė:&lt;/label>
 &lt;input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
@@ -287,13 +287,11 @@ el.p. klaipeda@sekmesinkilelis.lt &lt;br />
 &lt;p>Kaip tai vyksta? Kiekvieną pavasarį šimtai žmonių, įmonių bei asociacijų įsigydami „Sėkmės inkilėlį“ ar „Sėkmės apyrankę“ prisideda prie projekto fondo, iš kurio yra remiami jaunieji Lietuvos talentai – dainininkai, mokslininkai, sportininkai, dailininkai ir kiti aktyvūs jauni žmonės. Už surinktas lėšas yra perkami instrumentai, dailės priemonės, finansuojami tarptautiniai konkursai ir teikiama kita parama, kuri leidžia talentams skleistis.&lt;/p>
 &lt;p>Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę. Tai padaryti gali &lt;a href="../kaip-isigyti/">ČIA&lt;/a>.&lt;/p>
 &lt;p>Turi klausimų? Susisiek su mumis &lt;a href="../../#contact">ČIA&lt;/a>.&lt;/p>
-&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../informacija/kaip-isigyti/">ČIA&lt;/a>.&lt;/p></description></item><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti/</guid><description>&lt;div>
-&lt;div id="product-component-1575718950737">&lt;/div>
+&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../informacija/kaip-isigyti/">ČIA&lt;/a>.&lt;/p></description></item><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti/</guid><description>&lt;div id='collection-component-1581612857923'>&lt;/div>
 &lt;script type="text/javascript">
 /*&lt;![CDATA[*/
-(function() {
-var scriptURL =
-"https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js";
+(function () {
+var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
 if (window.ShopifyBuy) {
 if (window.ShopifyBuy.UI) {
 ShopifyBuyInit();
@@ -304,106 +302,139 @@ loadScript();
 loadScript();
 }
 function loadScript() {
-var script = document.createElement("script");
+var script = document.createElement('script');
 script.async = true;
 script.src = scriptURL;
-(
-document.getElementsByTagName("head")[0] ||
-document.getElementsByTagName("body")[0]
-).appendChild(script);
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
 script.onload = ShopifyBuyInit;
 }
 function ShopifyBuyInit() {
 var client = ShopifyBuy.buildClient({
-domain: "sekmes-inkilelis.myshopify.com",
-storefrontAccessToken: "6de914b8c6faf16df5080f4b9adea0fe"
+domain: 'sekmes-inkilelis.myshopify.com',
+storefrontAccessToken: '6de914b8c6faf16df5080f4b9adea0fe',
 });
-ShopifyBuy.UI.onReady(client).then(function(ui) {
-ui.createComponent("product", {
-id: "4376514986123",
-node: document.getElementById(
-"product-component-1575718950737"
-),
-moneyFormat:
-"%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D",
+ShopifyBuy.UI.onReady(client).then(function (ui) {
+ui.createComponent('collection', {
+id: '156244213899',
+node: document.getElementById('collection-component-1581612857923'),
+moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
 options: {
-product: {
-styles: {
-product: {
+"product": {
+"styles": {
+"product": {
 "@media (min-width: 601px)": {
-"max-width": "100%",
-"margin-left": "0",
-"margin-bottom": "50px"
+"max-width": "calc(25% - 20px)",
+"margin-left": "20px",
+"margin-bottom": "50px",
+"width": "calc(25% - 20px)"
 },
-"text-align": "left"
+"img": {
+"height": "calc(100% - 15px)",
+"position": "absolute",
+"left": "0",
+"right": "0",
+"top": "0"
 },
-title: {
-"font-size": "26px"
-},
-price: {
-"font-size": "18px"
-},
-compareAt: {
-"font-size": "15.299999999999999px"
+"imgWrapper": {
+"padding-top": "calc(75% + 15px)",
+"position": "relative",
+"height": "0"
 }
 },
-buttonDestination: "checkout",
-layout: "horizontal",
-contents: {
-img: false,
-imgWithCarousel: true,
-button: false,
-buttonWithQuantity: true,
-description: true
+"button": {
+":hover": {
+"background-color": "#502929"
 },
-width: "100%",
-text: {
-button: "Pirkti"
+"background-color": "#2f1818",
+":focus": {
+"background-color": "#502929"
+}
 }
 },
-productSet: {
-styles: {
-products: {
+"buttonDestination": "checkout",
+"contents": {
+"button": false,
+"buttonWithQuantity": true
+},
+"text": {
+"button": "Pirkti"
+}
+},
+"productSet": {
+"styles": {
+"products": {
 "@media (min-width: 601px)": {
 "margin-left": "-20px"
 }
 }
 }
 },
-modalProduct: {
-contents: {
-img: false,
-imgWithCarousel: true,
-button: false,
-buttonWithQuantity: true
+"modalProduct": {
+"contents": {
+"img": false,
+"imgWithCarousel": true,
+"button": false,
+"buttonWithQuantity": true
 },
-styles: {
-product: {
+"styles": {
+"product": {
 "@media (min-width: 601px)": {
 "max-width": "100%",
 "margin-left": "0px",
 "margin-bottom": "0px"
 }
+},
+"button": {
+":hover": {
+"background-color": "#502929"
+},
+"background-color": "#2f1818",
+":focus": {
+"background-color": "#502929"
+}
 }
 },
-text: {
-button: "Add to cart"
+"text": {
+"button": "Add to cart"
 }
 },
-cart: {
-text: {
-total: "Subtotal",
-button: "Checkout"
+"cart": {
+"styles": {
+"button": {
+":hover": {
+"background-color": "#502929"
+},
+"background-color": "#2f1818",
+":focus": {
+"background-color": "#502929"
+}
+}
+},
+"text": {
+"total": "Subtotal",
+"button": "Checkout"
+}
+},
+"toggle": {
+"styles": {
+"toggle": {
+"background-color": "#2f1818",
+":hover": {
+"background-color": "#502929"
+},
+":focus": {
+"background-color": "#502929"
 }
 }
 }
+}
+},
 });
 });
 }
 })();
 /*]]>*/
-&lt;/script>
-&lt;/div></description></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/informacija/paraiska/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/paraiska/</guid><description>&lt;h1 id="todo">TODO&lt;/h1></description></item><item><title>Šiauliai 2019</title><link>https://www.jocas.lt/si/siauliai/2019/</link><pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/siauliai/2019/</guid><description>&lt;table>
+&lt;/script></description></item><item><title>Paraiška</title><link>https://www.jocas.lt/si/informacija/paraiska/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/paraiska/</guid><description>&lt;h1 id="todo">TODO&lt;/h1></description></item><item><title>Šiauliai 2019</title><link>https://www.jocas.lt/si/siauliai/2019/</link><pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/siauliai/2019/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Nr.&lt;/th>
