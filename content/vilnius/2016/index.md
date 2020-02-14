@@ -20,7 +20,7 @@ output:
     toc_depth: 1
 ---
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OYTuZxRsvrP2NlBFnikGzCC01Pc" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OYTuZxRsvrP2NlBFnikGzCC01Pc" width="100%" height="480"></iframe>
 
 | Nr. | Savininkas | Vieta | Pakabinta |
 |-----|------------|-------|------|
