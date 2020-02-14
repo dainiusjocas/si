@@ -39,13 +39,6 @@
   identifier = "kaip-isigyti"
   url = "informacija/kaip-isigyti/"
 
-
-[[main]]
-  name = "Paraiška"
-  parent = "informacija"
-  identifier = "paraiska"
-  url = "informacija/paraiska/"
-
 [[main]]
   name = "Kontaktai"
   parent = "informacija"
