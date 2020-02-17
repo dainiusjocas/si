@@ -28,4 +28,4 @@ Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę
 
 Turi klausimų? Susisiek su mumis [ČIA](../../#contact). 
 
-Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą [ČIA](../informacija/kaip-isigyti/).
+Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą [ČIA](../../kandidatuok/paraiska/).
