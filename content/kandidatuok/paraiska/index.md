@@ -20,7 +20,7 @@ output:
     toc_depth: 1
 ---
 
-<form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" netlify>
+<form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify>
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Vardas, Pavardė:</label>
     <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
@@ -119,7 +119,7 @@ output:
     <textarea rows="3" name="dalyvio-prisistatymas" id="dalyvio-prisistatymas" placeholder="Prisistatykite..." required="true"></textarea>
     <label for="veiklos-apibudinimas">Veiklos, dėl kurios yra teikiamas prašymas paramai gauti, apibūdinimas:</label>
     <textarea rows="3" name="veiklos-apibudinimas" id="veiklos-apibudinimas" placeholder="Apibūdinkite veiklą..." required="true"></textarea>
-    <label for="kodel-reikalinga-parama">Apibūdinimas, kodėl pareikėjusi yra reikalinga parama:</label>
+    <label for="kodel-reikalinga-parama">Apibūdinimas, kodėl pareiškėjui yra reikalinga parama:</label>
     <textarea rows="3" name="kodel-reikalinga-parama" id="kodel-reikalinga-parama" placeholder="Kodėl reikalinga parama..." required="true"></textarea>
     <label for="informacija-teisinga">
     <input type="checkbox" id="informacija-teisinga" name="informacija-teisinga" value="informacija-teisinga" />Patvirtinu, kad aukščiau pateikta informacija yra teisinga, man yra žinoma, kad pateikęs neteisingą informaciją neturėsiu galimybės dalyvauti šiame ir kituose Sėkmės inkilėlio projektuose:</label>
@@ -129,6 +129,9 @@ output:
     <label for="veiklos-sritis">Dokumentai, patvirtinantys jaunuolio dalyvavimą veiklos srityje (pvz., pažyma iš švietimo įstaigos, rekomendacija)</label>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio paraiška">
   </fieldset>
+
+  <div data-netlify-recaptcha="true"></div>
+
   <input type="submit" value="Siųsti" />
 </form>
 <style>/* reset */
