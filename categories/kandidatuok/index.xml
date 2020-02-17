@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kandidatuok | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/categories/kandidatuok/</link><atom:link href="https://www.jocas.lt/si/categories/kandidatuok/index.xml" rel="self" type="application/rss+xml"/><description>Kandidatuok</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Kandidatuok</title><link>https://www.jocas.lt/si/categories/kandidatuok/</link></image><item><title>Paraiška</title><link>https://www.jocas.lt/si/kandidatuok/paraiska/</link><pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/kandidatuok/paraiska/</guid><description>&lt;form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" netlify>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kandidatuok | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/categories/kandidatuok/</link><atom:link href="https://www.jocas.lt/si/categories/kandidatuok/index.xml" rel="self" type="application/rss+xml"/><description>Kandidatuok</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Kandidatuok</title><link>https://www.jocas.lt/si/categories/kandidatuok/</link></image><item><title>Paraiška</title><link>https://www.jocas.lt/si/kandidatuok/paraiska/</link><pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/kandidatuok/paraiska/</guid><description>&lt;form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify>
 &lt;fieldset id="fs-frm-inputs">
 &lt;label for="full-name">Vardas, Pavardė:&lt;/label>
 &lt;input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
@@ -97,7 +97,7 @@
 &lt;textarea rows="3" name="dalyvio-prisistatymas" id="dalyvio-prisistatymas" placeholder="Prisistatykite..." required="true">&lt;/textarea>
 &lt;label for="veiklos-apibudinimas">Veiklos, dėl kurios yra teikiamas prašymas paramai gauti, apibūdinimas:&lt;/label>
 &lt;textarea rows="3" name="veiklos-apibudinimas" id="veiklos-apibudinimas" placeholder="Apibūdinkite veiklą..." required="true">&lt;/textarea>
-&lt;label for="kodel-reikalinga-parama">Apibūdinimas, kodėl pareikėjusi yra reikalinga parama:&lt;/label>
+&lt;label for="kodel-reikalinga-parama">Apibūdinimas, kodėl pareiškėjui yra reikalinga parama:&lt;/label>
 &lt;textarea rows="3" name="kodel-reikalinga-parama" id="kodel-reikalinga-parama" placeholder="Kodėl reikalinga parama..." required="true">&lt;/textarea>
 &lt;label for="informacija-teisinga">
 &lt;input type="checkbox" id="informacija-teisinga" name="informacija-teisinga" value="informacija-teisinga" />Patvirtinu, kad aukščiau pateikta informacija yra teisinga, man yra žinoma, kad pateikęs neteisingą informaciją neturėsiu galimybės dalyvauti šiame ir kituose Sėkmės inkilėlio projektuose:&lt;/label>
@@ -107,7 +107,8 @@
 &lt;label for="veiklos-sritis">Dokumentai, patvirtinantys jaunuolio dalyvavimą veiklos srityje (pvz., pažyma iš švietimo įstaigos, rekomendacija)&lt;/label>
 &lt;input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio paraiška">
 &lt;/fieldset>
-&lt;input type="submit" value="Siųsti" />
+&lt;div data-netlify-recaptcha="true">&lt;/div>
+&lt;p>&lt;input type="submit" value="Siųsti" />&lt;/p>
 &lt;/form>
 &lt;style>/* reset */
 #fs-frm input,
