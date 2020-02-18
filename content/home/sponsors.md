@@ -51,5 +51,12 @@ subtitle = ""
 +++
 
 <figure> 
-  <img alt="Liskandas" src="img/liskandas-logo.png" style="max-height: 200px;  text-align: center; margin: auto;" />
+  <a href="https://www.hus.lt/" target="_blank">
+    <img alt="Liskandas" src="img/liskandas-logo.png" style="max-height: 200px;  text-align: center; margin: auto; float: left;" />
+  </a>
+</figure>
+<figure>
+  <a href="http://www.groupeuropa.com/europa_royale/vilnius_hotel/" target="_blank">
+    <img alt="Europa Royale" src="img/europa-royale-logo.jpg" style="max-height: 200px;  text-align: center; margin: auto; float: right;" />
+  </a>
 </figure>
