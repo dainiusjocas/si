@@ -81,8 +81,6 @@
 &lt;/select>
 &lt;label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):&lt;/label>
 &lt;input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
-&lt;label for="tevu-globeju-sutikimas">Tėvų (ar teisėtų atstovų) sutikimas dalyvauti konkurse, jei dalyviui mažiau nei 18 metų:&lt;/label>
-&lt;input type="file" id="tevu-globeju-sutikimas" name="tevu-globeju-sutikimas">
 &lt;label for="veiklos-sritis">Veikos sritis, dėl kurios teikiama paraiška paramai gauti&lt;/label>
 &lt;select name="veiklos-sritis" id="veiklos-sritis" required="true">
 &lt;option value="Choose" selected="" disabled="">Pasirinkti&lt;/option>
@@ -102,7 +100,7 @@
 &lt;label for="informacija-teisinga">
 &lt;input type="checkbox" id="informacija-teisinga" name="informacija-teisinga" value="informacija-teisinga" />Patvirtinu, kad aukščiau pateikta informacija yra teisinga, man yra žinoma, kad pateikęs neteisingą informaciją neturėsiu galimybės dalyvauti šiame ir kituose Sėkmės inkilėlio projektuose:&lt;/label>
 &lt;label for="susipazinau">
-&lt;input type="checkbox" id="susipazinau" name="susipazinau" value="susipazinau" />Patvirtinu, kad susipažinau su informacija apie mano asmens duomenų tvarkymą. Su informacija apie duomenų tvarkymą galima susipažinti [nuoroda]:&lt;/label>
+&lt;input type="checkbox" id="susipazinau" name="susipazinau" value="susipazinau" />Patvirtinu, kad man yra žinoma, jog Sėkmės inkilėlio projekto organizatoriai gali naudoti mano jiems pateiktus asmens duomenis Sėkmės inkilėlio projekto konkurso atrankos ir viešinimo tikslais.&lt;/label>
 &lt;input type="file" id="dokumentai" name="dokumentai">
 &lt;label for="veiklos-sritis">Dokumentai, patvirtinantys jaunuolio dalyvavimą veiklos srityje (pvz., pažyma iš švietimo įstaigos, rekomendacija)&lt;/label>
 &lt;input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio paraiška">
