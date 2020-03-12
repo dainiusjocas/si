@@ -6,7 +6,7 @@ title: Marijampolė 2016
 date: '2016-05-21'
 tags: []
 categories:
-  - Informacija
+  - Marijampolė
 summary: Inkilėliai pakabinti 2016 metais Marijampolėje
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
