@@ -20,52 +20,22 @@ output:
     toc_depth: 1
 ---
 
-<form id="fs-frm" name="reservation-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify action="/informacija/rezervacija-privatiems/">
-  <fieldset id="fs-frm-inputs">
+<form id="fsr-frm" name="personal-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems/">
+  <fieldset id="fsr-frm-inputs-reservation">
     <label for="full-name">Pirkėjo vardas ir pavardė:</label>
     <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
-    <div>
-      <input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo"><b class="pka">Pirkėjas kitas asmuo?</b></input>
-      <div class="inputs">
-        <label for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:</label>
-        <input type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
-      </div>
-      <style>
-        .pka {
-          font-size: .825em;
-        }
-        .foo ~ div {
-          display: none;
-        }
-        .foo:checked ~ div {
-          display: initial;
-        }
-      </style>
-    </div>
+    <input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo"><b class="pka">Pirkėjas kitas asmuo?</b></input>
+    <label class="savininkas" for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:</label>
+      <input class="savininkas" type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
     <label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):</label>
     <input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
     <label for="kiekis">Kiekis:</label>
     <input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10"></input>
     <label for="skiriama-suma">Skiriame suma:</label>
     <input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100"></input>
-    <div>
-      <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.</b></input>
-      <div class="inputs">
-        <label for="pristatymo-adresas">Pristatymo adresas:</label>
-        <textarea rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
-      </div>
-      <style>
-        .pka {
-          font-size: .825em;
-        }
-        .foo ~ div {
-          display: none;
-        }
-        .foo:checked ~ div {
-          display: initial;
-        }
-      </style>
-    </div>
+    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.</b></input>
+    <label class="adresas" for="pristatymo-adresas">Pristatymo adresas:</label>
+    <textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
   </fieldset>
 
@@ -74,13 +44,13 @@ output:
   <input type="submit" value="Rezervuoti" />
 </form>
 <style>/* reset */
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm fieldset,
-#fs-frm optgroup,
-#fs-frm label,
-#fs-frm #card-element:disabled {
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm fieldset,
+#fsr-frm optgroup,
+#fsr-frm label,
+#fsr-frm #card-element:disabled {
   font-family: inherit;
   font-size: 100%;
   color: inherit;
@@ -93,9 +63,9 @@ output:
   -webkit-appearance: none;
   -moz-appearance: none;
 }
-#fs-frm label,
-#fs-frm legend,
-#fs-frm ::placeholder {
+#fsr-frm label,
+#fsr-frm legend,
+#fsr-frm ::placeholder {
   font-size: .825em;
   margin-bottom: .5em;
   padding-top: .2em;
@@ -103,50 +73,50 @@ output:
   align-items: baseline;
 }
 /* border, padding, margin, width */
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm #card-element {
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm #card-element {
   border: 1px solid rgba(0,0,0,0.2);
   background-color: rgba(255,255,255,0.9);
   padding: .75em 1em;
   margin-bottom: 1.5em;
 }
-#fs-frm input:focus,
-#fs-frm select:focus,
-#fs-frm textarea:focus {
+#fsr-frm input:focus,
+#fsr-frm select:focus,
+#fsr-frm textarea:focus {
   background-color: white;
   outline-style: solid;
   outline-width: thin;
   outline-color: gray;
   outline-offset: -1px;
 }
-#fs-frm [type="text"],
-#fs-frm [type="email"] {
+#fsr-frm [type="text"],
+#fsr-frm [type="email"] {
   width: 100%;
 }
-#fs-frm [type="button"],
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+#fsr-frm [type="button"],
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
   width: auto;
   cursor: pointer;
   -webkit-appearance: button;
   -moz-appearance: button;
   appearance: button;
 }
-#fs-frm [type="button"]:focus,
-#fs-frm [type="submit"]:focus,
-#fs-frm [type="reset"]:focus {
+#fsr-frm [type="button"]:focus,
+#fsr-frm [type="submit"]:focus,
+#fsr-frm [type="reset"]:focus {
   outline: none;
 }
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
   margin-bottom: 0;
 }
-#fs-frm select {
+#fsr-frm select {
   text-transform: none;
 }
-#fs-frm [type="checkbox"] {
+#fsr-frm [type="checkbox"] {
   -webkit-appearance: checkbox;
   -moz-appearance: checkbox;
   appearance: checkbox;
@@ -154,7 +124,7 @@ output:
   width: auto;
   margin: 0 .5em 0 0;
 }
-#fs-frm [type="checkbox"] {
+#fsr-frm [type="checkbox"] {
   -webkit-appearance: checkbox;
   -moz-appearance: checkbox;
   appearance: checkbox;
@@ -163,23 +133,47 @@ output:
   background: red;
   margin: 0 .5em 0 0;
 }
-#fs-frm [type="radio"] {
+#fsr-frm [type="radio"] {
   -webkit-appearance: radio;
   -moz-appearance: radio;
   appearance: radio;
 }
 /* address, locale */
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="city"] {
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"] {
   width: 52%;
 }
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"] {
   margin-right: 3%;
 }
-#fs-frm  label {
+#fsr-frm  label {
   font-weight: bolder;
+}
+.pka {
+  font-size: .825em;
+}
+.foo ~ div {
+  display: none;
+}
+.foo:checked ~ div {
+  display: initial;
+}
+.pka {
+  font-size: .825em;
+}
+#pirkejas-kitas-asmuo.foo ~ .savininkas {
+  display: none;
+}
+#pirkejas-kitas-asmuo.foo:checked ~ .savininkas {
+  display: initial;
+}
+#pristatyti.foo ~ .adresas {
+  display: none;
+}
+#pristatyti.foo:checked ~ .adresas {
+  display: initial;
 }
 </style>
