@@ -26,10 +26,9 @@ output:
     <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
     <div>
       <input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo"><b class="pka">Pirkėjas kitas asmuo?</b></input>
-      <br />
       <div class="inputs">
         <label for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:</label>
-        <input type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis" required="false">
+        <input type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
       </div>
       <style>
         .pka {
@@ -46,19 +45,32 @@ output:
     <label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):</label>
     <input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
     <label for="kiekis">Kiekis:</label>
-    <input type="number" name="kiekis" id="kiekis" required="true" value="1"></input>
+    <input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10"></input>
     <label for="skiriama-suma">Skiriame suma:</label>
     <input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100"></input>
-    <label for="pageidauju">Pageidauju:</label>
-    <select name="pageidauju" id="pageidauju" required="true">
-      <option selected value="pakabinti-sapiegu-take">kad mano inkiliuką pakabintų Sapiegų pažintiniame take</option>
-      <option value="gauti-inkiliuka">gauti inkiliuką nurodytu adresu</option>
-    </select>
+    <div>
+      <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.</b></input>
+      <div class="inputs">
+        <label for="pristatymo-adresas">Pristatymo adresas:</label>
+        <textarea rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
+      </div>
+      <style>
+        .pka {
+          font-size: .825em;
+        }
+        .foo ~ div {
+          display: none;
+        }
+        .foo:checked ~ div {
+          display: initial;
+        }
+      </style>
+    </div>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
   </fieldset>
 
   <div data-netlify-recaptcha="true"></div>
-
+  
   <input type="submit" value="Rezervuoti" />
 </form>
 <style>/* reset */
