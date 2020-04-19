@@ -23,10 +23,10 @@ output:
 <form id="fsr-frm" name="personal-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems/">
   <fieldset id="fsr-frm-inputs-reservation">
     <label for="full-name">Pirkėjo vardas ir pavardė:</label>
-    <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
+    <input type="text" name="pirkejo-vardas" id="full-name" placeholder="Vardenis Pavardenis" required="true">
     <input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo"><b class="pka">Pirkėjas kitas asmuo?</b></input>
     <label class="savininkas" for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:</label>
-      <input class="savininkas" type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
+    <input class="savininkas" type="text" name="savininkas" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
     <label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):</label>
     <input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
     <label for="kiekis">Kiekis:</label>
