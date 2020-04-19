@@ -5,11 +5,13 @@
 &lt;input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo">&lt;b class="pka">Pirkėjas kitas asmuo?&lt;/b>&lt;/input>
 &lt;label class="savininkas" for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:&lt;/label>
 &lt;input class="savininkas" type="text" name="savininkas" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
-&lt;label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):&lt;/label>
-&lt;input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
+&lt;label for="email-address">Elektroninis paštas:&lt;/label>
+&lt;input type="email" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="example@example.com" required="true">
+&lt;label for="phone-number">Telefono numeris:&lt;/label>
+&lt;input type="tel" name="phone-number" id="phone-number" placeholder="+37060000000" required="false">
 &lt;label for="kiekis">Kiekis:&lt;/label>
 &lt;input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10">&lt;/input>
-&lt;label for="skiriama-suma">Skiriame suma:&lt;/label>
+&lt;label for="skiriama-suma">Skiriama suma:&lt;/label>
 &lt;input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100">&lt;/input>
 &lt;input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti">&lt;b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.&lt;/b>&lt;/input>
 &lt;label class="adresas" for="pristatymo-adresas">Pristatymo adresas:&lt;/label>
