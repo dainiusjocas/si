@@ -34,10 +34,10 @@
   url = "informacija/apie-projekta/"
 
 [[main]]
-  name = "Kaip įsigyti"
+  name = "Kaip įsigyti privatiems asmenims"
   parent = "informacija"
-  identifier = "kaip-isigyti"
-  url = "informacija/kaip-isigyti/"
+  identifier = "kaip-isigyti-privatiems"
+  url = "informacija/kaip-isigyti-privatiems/"
 
 [[main]]
   name = "Kontaktai"
