@@ -40,6 +40,12 @@
   url = "informacija/kaip-isigyti-privatiems/"
 
 [[main]]
+  name = "Kaip įsigyti juridiniams asmenims"
+  parent = "informacija"
+  identifier = "kaip-isigyti-juridiniams"
+  url = "informacija/kaip-isigyti-juridiniams/"
+
+[[main]]
   name = "Kontaktai"
   parent = "informacija"
   identifier = "kontaktai"
