@@ -20,17 +20,16 @@ output:
     toc_depth: 1
 ---
 
-Mano tekstas <b id="param">XXXX</b> taskas.
+Jūsų inkilėlio (-ių) rezervacija  patvirtinta.
 
-Kiekis: <b id="kiekis">KIEKIS</b>
+Norėdami sėkmingai užbaigti pirkimą, pasirinktą sumą perveskite nurodytais rekvizitais:
 
-Suma: <b id="suma">SUMA</b>
+Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” <br />
+A/S: LT84 7300 0101 4243 9552 AB “Swedbank” <br />
+el.p. vilnius@sekmesinkilelis.lt <br />
+8 687 83493<br/>
 
-<script>
-  const params = new URLSearchParams(window.location.search);
-  console.log(params.get('aaa'));
 
-  document.getElementById('param').innerHTML = params.get('aaa');
-  document.getElementById('kiekis').innerHTML = params.get('kiekis');
-  document.getElementById('suma').innerHTML = params.get('suma');
-</script>
+Gavę apmokėjimą, pranešime Jums, ir iškart pradėsime vykdyti užsakymą. 
+
+Ačiū, kad prisidedate prie jaunųjų talentų ugdymo ir gamtos puoselėjimo.
