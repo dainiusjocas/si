@@ -1,13 +1,13 @@
 ---
-aliases: [kaip-isigyti]
+aliases: [kaip-isigyti-privatiems]
 projects: [sekmes-inkilelis]
 title: Kaip įsigyti
 # authors: ["Geležinis vilkas"]
-date: '2019-12-12'
+date: '2020-04-20'
 tags: []
 categories:
   - Informacija
-summary: Instrukcijos kaip įsigyti inkilėlį
+summary: Instrukcijos kaip įsigyti inkilėlį privatiems
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
