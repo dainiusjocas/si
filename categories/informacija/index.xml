@@ -1,62 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Informacija | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/categories/informacija/</link><atom:link href="https://www.jocas.lt/si/categories/informacija/index.xml" rel="self" type="application/rss+xml"/><description>Informacija</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Informacija</title><link>https://www.jocas.lt/si/categories/informacija/</link></image><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</guid><description>&lt;form id="fs-frm" name="reservation-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify action="https://www.jocas.lt/si/informacija/rezervacija-privatiems/">
-&lt;fieldset id="fs-frm-inputs">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Informacija | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/categories/informacija/</link><atom:link href="https://www.jocas.lt/si/categories/informacija/index.xml" rel="self" type="application/rss+xml"/><description>Informacija</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Informacija</title><link>https://www.jocas.lt/si/categories/informacija/</link></image><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</guid><description>&lt;form id="fsr-frm" name="personal-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="https://www.jocas.lt/si/informacija/rezervacija-privatiems/">
+&lt;fieldset id="fsr-frm-inputs-reservation">
 &lt;label for="full-name">Pirkėjo vardas ir pavardė:&lt;/label>
 &lt;input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
-&lt;div>
 &lt;input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo">&lt;b class="pka">Pirkėjas kitas asmuo?&lt;/b>&lt;/input>
-&lt;div class="inputs">
-&lt;label for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:&lt;/label>
-&lt;input type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
-&lt;/div>
-&lt;style>
-.pka {
-font-size: .825em;
-}
-.foo ~ div {
-display: none;
-}
-.foo:checked ~ div {
-display: initial;
-}
-&lt;/style>
-&lt;/div>
+&lt;label class="savininkas" for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:&lt;/label>
+&lt;input class="savininkas" type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
 &lt;label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):&lt;/label>
 &lt;input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
 &lt;label for="kiekis">Kiekis:&lt;/label>
 &lt;input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10">&lt;/input>
 &lt;label for="skiriama-suma">Skiriame suma:&lt;/label>
 &lt;input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100">&lt;/input>
-&lt;div>
 &lt;input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti">&lt;b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.&lt;/b>&lt;/input>
-&lt;div class="inputs">
-&lt;label for="pristatymo-adresas">Pristatymo adresas:&lt;/label>
-&lt;textarea rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką...">&lt;/textarea>
-&lt;/div>
-&lt;style>
-.pka {
-font-size: .825em;
-}
-.foo ~ div {
-display: none;
-}
-.foo:checked ~ div {
-display: initial;
-}
-&lt;/style>
-&lt;/div>
+&lt;label class="adresas" for="pristatymo-adresas">Pristatymo adresas:&lt;/label>
+&lt;textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką...">&lt;/textarea>
 &lt;input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
 &lt;/fieldset>
 &lt;div data-netlify-recaptcha="true">&lt;/div>
 &lt;p>&lt;input type="submit" value="Rezervuoti" />&lt;/p>
 &lt;/form>
 &lt;style>/* reset */
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm fieldset,
-#fs-frm optgroup,
-#fs-frm label,
-#fs-frm #card-element:disabled {
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm fieldset,
+#fsr-frm optgroup,
+#fsr-frm label,
+#fsr-frm #card-element:disabled {
 font-family: inherit;
 font-size: 100%;
 color: inherit;
@@ -69,9 +39,9 @@ margin: 0;
 -webkit-appearance: none;
 -moz-appearance: none;
 }
-#fs-frm label,
-#fs-frm legend,
-#fs-frm ::placeholder {
+#fsr-frm label,
+#fsr-frm legend,
+#fsr-frm ::placeholder {
 font-size: .825em;
 margin-bottom: .5em;
 padding-top: .2em;
@@ -79,50 +49,50 @@ display: flex;
 align-items: baseline;
 }
 /* border, padding, margin, width */
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm #card-element {
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm #card-element {
 border: 1px solid rgba(0,0,0,0.2);
 background-color: rgba(255,255,255,0.9);
 padding: .75em 1em;
 margin-bottom: 1.5em;
 }
-#fs-frm input:focus,
-#fs-frm select:focus,
-#fs-frm textarea:focus {
+#fsr-frm input:focus,
+#fsr-frm select:focus,
+#fsr-frm textarea:focus {
 background-color: white;
 outline-style: solid;
 outline-width: thin;
 outline-color: gray;
 outline-offset: -1px;
 }
-#fs-frm [type="text"],
-#fs-frm [type="email"] {
+#fsr-frm [type="text"],
+#fsr-frm [type="email"] {
 width: 100%;
 }
-#fs-frm [type="button"],
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+#fsr-frm [type="button"],
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
 width: auto;
 cursor: pointer;
 -webkit-appearance: button;
 -moz-appearance: button;
 appearance: button;
 }
-#fs-frm [type="button"]:focus,
-#fs-frm [type="submit"]:focus,
-#fs-frm [type="reset"]:focus {
+#fsr-frm [type="button"]:focus,
+#fsr-frm [type="submit"]:focus,
+#fsr-frm [type="reset"]:focus {
 outline: none;
 }
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
 margin-bottom: 0;
 }
-#fs-frm select {
+#fsr-frm select {
 text-transform: none;
 }
-#fs-frm [type="checkbox"] {
+#fsr-frm [type="checkbox"] {
 -webkit-appearance: checkbox;
 -moz-appearance: checkbox;
 appearance: checkbox;
@@ -130,7 +100,7 @@ display: inline-block;
 width: auto;
 margin: 0 .5em 0 0;
 }
-#fs-frm [type="checkbox"] {
+#fsr-frm [type="checkbox"] {
 -webkit-appearance: checkbox;
 -moz-appearance: checkbox;
 appearance: checkbox;
@@ -139,24 +109,48 @@ width: auto;
 background: red;
 margin: 0 .5em 0 0;
 }
-#fs-frm [type="radio"] {
+#fsr-frm [type="radio"] {
 -webkit-appearance: radio;
 -moz-appearance: radio;
 appearance: radio;
 }
 /* address, locale */
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="city"] {
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"] {
 width: 52%;
 }
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"] {
 margin-right: 3%;
 }
-#fs-frm label {
+#fsr-frm label {
 font-weight: bolder;
+}
+.pka {
+font-size: .825em;
+}
+.foo ~ div {
+display: none;
+}
+.foo:checked ~ div {
+display: initial;
+}
+.pka {
+font-size: .825em;
+}
+#pirkejas-kitas-asmuo.foo ~ .savininkas {
+display: none;
+}
+#pirkejas-kitas-asmuo.foo:checked ~ .savininkas {
+display: initial;
+}
+#pristatyti.foo ~ .adresas {
+display: none;
+}
+#pristatyti.foo:checked ~ .adresas {
+display: initial;
 }
 &lt;/style></description></item><item><title>Reervacijos informacija</title><link>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</guid><description>&lt;p>Jūsų inkilėlio (-ių) rezervacija patvirtinta.&lt;/p>
 &lt;p>Norėdami sėkmingai užbaigti pirkimą, pasirinktą sumą perveskite nurodytais rekvizitais:&lt;/p>
