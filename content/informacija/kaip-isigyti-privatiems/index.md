@@ -20,7 +20,7 @@ output:
     toc_depth: 1
 ---
 
-<form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify action="/informacija/rezervacija-privatiems/">
+<form id="fs-frm" name="reservation-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify action="/informacija/rezervacija-privatiems/">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Pirkėjo vardas ir pavardė:</label>
     <input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
