@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Informacija | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/informacija/</link><atom:link href="https://www.jocas.lt/si/informacija/index.xml" rel="self" type="application/rss+xml"/><description>Informacija</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Informacija</title><link>https://www.jocas.lt/si/informacija/</link></image><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</guid><description>&lt;form id="fsr-frm" name="personal-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="https://www.jocas.lt/si/informacija/rezervacija-privatiems/">
 &lt;fieldset id="fsr-frm-inputs-reservation">
 &lt;label for="full-name">Pirkėjo vardas ir pavardė:&lt;/label>
-&lt;input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
+&lt;input type="text" name="pirkejo-vardas" id="full-name" placeholder="Vardenis Pavardenis" required="true">
 &lt;input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo">&lt;b class="pka">Pirkėjas kitas asmuo?&lt;/b>&lt;/input>
 &lt;label class="savininkas" for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:&lt;/label>
-&lt;input class="savininkas" type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
+&lt;input class="savininkas" type="text" name="savininkas" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
 &lt;label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):&lt;/label>
 &lt;input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
 &lt;label for="kiekis">Kiekis:&lt;/label>
