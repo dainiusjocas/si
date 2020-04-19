@@ -1,7 +1,7 @@
 ---
 aliases: [rezervacija-privatiems]
 projects: [sekmes-inkilelis]
-title: Reervacijos informacija
+title: Rezervacijos informacija
 # authors: ["Geležinis vilkas"]
 date: '2020-04-19'
 tags: []
