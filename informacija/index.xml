@@ -1,4 +1,171 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Informacija | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/informacija/</link><atom:link href="https://www.jocas.lt/si/informacija/index.xml" rel="self" type="application/rss+xml"/><description>Informacija</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Informacija</title><link>https://www.jocas.lt/si/informacija/</link></image><item><title>Kontaktai</title><link>https://www.jocas.lt/si/informacija/kontaktai/</link><pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kontaktai/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Informacija | Sėkmės inkilėlis</title><link>https://www.jocas.lt/si/informacija/</link><atom:link href="https://www.jocas.lt/si/informacija/index.xml" rel="self" type="application/rss+xml"/><description>Informacija</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sėkmės inkilėlis</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><image><url>https://www.jocas.lt/si/img/Event_cover_01.jpg</url><title>Informacija</title><link>https://www.jocas.lt/si/informacija/</link></image><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti-privatiems/</guid><description>&lt;form id="fs-frm" name="reservation-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify action="https://www.jocas.lt/si/informacija/rezervacija-privatiems/">
+&lt;fieldset id="fs-frm-inputs">
+&lt;label for="full-name">Pirkėjo vardas ir pavardė:&lt;/label>
+&lt;input type="text" name="name" id="full-name" placeholder="Vardenis Pavardenis" required="true">
+&lt;div>
+&lt;input type="checkbox" class="foo" id="pirkejas-kitas-asmuo" name="pirkejas-kitas-asmuo" value="pirkejas-kitas-asmuo">&lt;b class="pka">Pirkėjas kitas asmuo?&lt;/b>&lt;/input>
+&lt;div class="inputs">
+&lt;label for="savininko-vardas-ir-pavarde">Inkilėlio savininko vardas ir pavardė:&lt;/label>
+&lt;input type="text" name="name" id="savininko-vardas-ir-pavarde" placeholder="Vardenis Pavardenis">
+&lt;/div>
+&lt;style>
+.pka {
+font-size: .825em;
+}
+.foo ~ div {
+display: none;
+}
+.foo:checked ~ div {
+display: initial;
+}
+&lt;/style>
+&lt;/div>
+&lt;label for="email-address">Kontaktiniai duomenys (el. paštas, telefono numeris):&lt;/label>
+&lt;input type="text" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="+37060000000" required="true">
+&lt;label for="kiekis">Kiekis:&lt;/label>
+&lt;input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10">&lt;/input>
+&lt;label for="skiriama-suma">Skiriame suma:&lt;/label>
+&lt;input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100">&lt;/input>
+&lt;div>
+&lt;input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti">&lt;b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.&lt;/b>&lt;/input>
+&lt;div class="inputs">
+&lt;label for="pristatymo-adresas">Pristatymo adresas:&lt;/label>
+&lt;textarea rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką...">&lt;/textarea>
+&lt;/div>
+&lt;style>
+.pka {
+font-size: .825em;
+}
+.foo ~ div {
+display: none;
+}
+.foo:checked ~ div {
+display: initial;
+}
+&lt;/style>
+&lt;/div>
+&lt;input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
+&lt;/fieldset>
+&lt;div data-netlify-recaptcha="true">&lt;/div>
+&lt;p>&lt;input type="submit" value="Rezervuoti" />&lt;/p>
+&lt;/form>
+&lt;style>/* reset */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm fieldset,
+#fs-frm optgroup,
+#fs-frm label,
+#fs-frm #card-element:disabled {
+font-family: inherit;
+font-size: 100%;
+color: inherit;
+border: none;
+border-radius: 0;
+display: block;
+width: 100%;
+padding: 0;
+margin: 0;
+-webkit-appearance: none;
+-moz-appearance: none;
+}
+#fs-frm label,
+#fs-frm legend,
+#fs-frm ::placeholder {
+font-size: .825em;
+margin-bottom: .5em;
+padding-top: .2em;
+display: flex;
+align-items: baseline;
+}
+/* border, padding, margin, width */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm #card-element {
+border: 1px solid rgba(0,0,0,0.2);
+background-color: rgba(255,255,255,0.9);
+padding: .75em 1em;
+margin-bottom: 1.5em;
+}
+#fs-frm input:focus,
+#fs-frm select:focus,
+#fs-frm textarea:focus {
+background-color: white;
+outline-style: solid;
+outline-width: thin;
+outline-color: gray;
+outline-offset: -1px;
+}
+#fs-frm [type="text"],
+#fs-frm [type="email"] {
+width: 100%;
+}
+#fs-frm [type="button"],
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+width: auto;
+cursor: pointer;
+-webkit-appearance: button;
+-moz-appearance: button;
+appearance: button;
+}
+#fs-frm [type="button"]:focus,
+#fs-frm [type="submit"]:focus,
+#fs-frm [type="reset"]:focus {
+outline: none;
+}
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+margin-bottom: 0;
+}
+#fs-frm select {
+text-transform: none;
+}
+#fs-frm [type="checkbox"] {
+-webkit-appearance: checkbox;
+-moz-appearance: checkbox;
+appearance: checkbox;
+display: inline-block;
+width: auto;
+margin: 0 .5em 0 0;
+}
+#fs-frm [type="checkbox"] {
+-webkit-appearance: checkbox;
+-moz-appearance: checkbox;
+appearance: checkbox;
+display: inline-block;
+width: auto;
+background: red;
+margin: 0 .5em 0 0;
+}
+#fs-frm [type="radio"] {
+-webkit-appearance: radio;
+-moz-appearance: radio;
+appearance: radio;
+}
+/* address, locale */
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="city"] {
+width: 52%;
+}
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"] {
+margin-right: 3%;
+}
+#fs-frm label {
+font-weight: bolder;
+}
+&lt;/style></description></item><item><title>Reervacijos informacija</title><link>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</guid><description>&lt;p>Jūsų inkilėlio (-ių) rezervacija patvirtinta.&lt;/p>
+&lt;p>Norėdami sėkmingai užbaigti pirkimą, pasirinktą sumą perveskite nurodytais rekvizitais:&lt;/p>
+&lt;p>Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” &lt;br />
+A/S: LT84 7300 0101 4243 9552 AB “Swedbank” &lt;br />
+el.p. &lt;a href="mailto:vilnius@sekmesinkilelis.lt">vilnius@sekmesinkilelis.lt&lt;/a> &lt;br />
+8 687 83493&lt;br/>&lt;/p>
+&lt;p>Gavę apmokėjimą, pranešime Jums, ir iškart pradėsime vykdyti užsakymą.&lt;/p>
+&lt;p>Ačiū, kad prisidedate prie jaunųjų talentų ugdymo ir gamtos puoselėjimo.&lt;/p></description></item><item><title>Kontaktai</title><link>https://www.jocas.lt/si/informacija/kontaktai/</link><pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kontaktai/</guid><description>&lt;table>
 &lt;tbody>
 &lt;tr>
 &lt;td colspan="3">&lt;b>VILNIUJE&lt;/b>&lt;/td>
@@ -45,4 +212,4 @@ el.p. klaipeda@sekmesinkilelis.lt &lt;br />
 &lt;p>Kaip tai vyksta? Kiekvieną pavasarį šimtai žmonių, įmonių bei asociacijų įsigydami „Sėkmės inkilėlį“ ar „Sėkmės apyrankę“ prisideda prie projekto fondo, iš kurio yra remiami jaunieji Lietuvos talentai – dainininkai, mokslininkai, sportininkai, dailininkai ir kiti aktyvūs jauni žmonės. Už surinktas lėšas yra perkami instrumentai, dailės priemonės, finansuojami tarptautiniai konkursai ir teikiama kita parama, kuri leidžia talentams skleistis.&lt;/p>
 &lt;p>Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę. Tai padaryti gali &lt;a href="../kaip-isigyti/">ČIA&lt;/a>.&lt;/p>
 &lt;p>Turi klausimų? Susisiek su mumis &lt;a href="../../#contact">ČIA&lt;/a>.&lt;/p>
-&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../../kandidatuok/paraiska/">ČIA&lt;/a>.&lt;/p></description></item><item><title>Kaip įsigyti</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti/</guid><description/></item></channel></rss>
+&lt;p>Esi talentingas jaunas žmogus ir tau reikalinga parama? Užpildyk paraiškos formą &lt;a href="../../kandidatuok/paraiska/">ČIA&lt;/a>.&lt;/p></description></item></channel></rss>
