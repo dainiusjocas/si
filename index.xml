@@ -154,6 +154,161 @@ display: none;
 #pristatyti.foo:checked ~ .adresas {
 display: initial;
 }
+&lt;/style></description></item><item><title>Kaip įsigyti juridiniams asmenims</title><link>https://www.jocas.lt/si/informacija/kaip-isigyti-juridiniams/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kaip-isigyti-juridiniams/</guid><description>&lt;form id="fsr-frm" name="business-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="https://www.jocas.lt/si/informacija/rezervacija-privatiems">
+&lt;fieldset id="fsr-frm-inputs-reservation">
+&lt;label for="full-name">Pirkėjo vardas ir pavardė:&lt;/label>
+&lt;input type="text" name="pirkejo-vardas" id="full-name" placeholder="Vardenis Pavardenis" required="true">
+&lt;label class="rekvizitai" for="rekvizitai">Rekvizitai:&lt;/label>
+&lt;textarea class="rekvizitai" rows="2" name="rekvizitai" id="rekvizitai" placeholder="Kodas, adresas, pavadinimas">&lt;/textarea>
+&lt;label for="email-address">Elektroninis paštas:&lt;/label>
+&lt;input type="email" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="example@example.com" required="true">
+&lt;label for="phone-number">Telefono numeris:&lt;/label>
+&lt;input type="tel" name="phone-number" id="phone-number" placeholder="+37060000000" required="false">
+&lt;label for="kiekis">Kiekis:&lt;/label>
+&lt;input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10">&lt;/input>
+&lt;label for="skiriama-suma">Skiriama suma:&lt;/label>
+&lt;input type="number" name="skiriama-suma" id="skiriama-suma" value="50" min="50" max="100">&lt;/input>
+&lt;input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti">&lt;b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.&lt;/b>&lt;/input>
+&lt;label class="adresas" for="pristatymo-adresas">Pristatymo adresas:&lt;/label>
+&lt;textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką...">&lt;/textarea>
+&lt;input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
+&lt;/fieldset>
+&lt;div data-netlify-recaptcha="true">&lt;/div>
+&lt;p>&lt;input type="submit" value="Rezervuoti" />&lt;/p>
+&lt;/form>
+&lt;style>/* reset */
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm fieldset,
+#fsr-frm optgroup,
+#fsr-frm label,
+#fsr-frm #card-element:disabled {
+font-family: inherit;
+font-size: 100%;
+color: inherit;
+border: none;
+border-radius: 0;
+display: block;
+width: 100%;
+padding: 0;
+margin: 0;
+-webkit-appearance: none;
+-moz-appearance: none;
+}
+#fsr-frm label,
+#fsr-frm legend,
+#fsr-frm ::placeholder {
+font-size: .825em;
+margin-bottom: .5em;
+padding-top: .2em;
+display: flex;
+align-items: baseline;
+}
+/* border, padding, margin, width */
+#fsr-frm input,
+#fsr-frm select,
+#fsr-frm textarea,
+#fsr-frm #card-element {
+border: 1px solid rgba(0,0,0,0.2);
+background-color: rgba(255,255,255,0.9);
+padding: .75em 1em;
+margin-bottom: 1.5em;
+}
+#fsr-frm input:focus,
+#fsr-frm select:focus,
+#fsr-frm textarea:focus {
+background-color: white;
+outline-style: solid;
+outline-width: thin;
+outline-color: gray;
+outline-offset: -1px;
+}
+#fsr-frm [type="text"],
+#fsr-frm [type="email"] {
+width: 100%;
+}
+#fsr-frm [type="button"],
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
+width: auto;
+cursor: pointer;
+-webkit-appearance: button;
+-moz-appearance: button;
+appearance: button;
+}
+#fsr-frm [type="button"]:focus,
+#fsr-frm [type="submit"]:focus,
+#fsr-frm [type="reset"]:focus {
+outline: none;
+}
+#fsr-frm [type="submit"],
+#fsr-frm [type="reset"] {
+margin-bottom: 0;
+}
+#fsr-frm select {
+text-transform: none;
+}
+#fsr-frm [type="checkbox"] {
+-webkit-appearance: checkbox;
+-moz-appearance: checkbox;
+appearance: checkbox;
+display: inline-block;
+width: auto;
+margin: 0 .5em 0 0;
+}
+#fsr-frm [type="checkbox"] {
+-webkit-appearance: checkbox;
+-moz-appearance: checkbox;
+appearance: checkbox;
+display: inline-block;
+width: auto;
+background: red;
+margin: 0 .5em 0 0;
+}
+#fsr-frm [type="radio"] {
+-webkit-appearance: radio;
+-moz-appearance: radio;
+appearance: radio;
+}
+/* address, locale */
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"] {
+width: 52%;
+}
+#fsr-frm fieldset.locale select[name="state"],
+#fsr-frm fieldset.locale input[name="city"],
+#fsr-frm fieldset.locale select[name="state"] {
+margin-right: 3%;
+}
+#fsr-frm label {
+font-weight: bolder;
+}
+.pka {
+font-size: .825em;
+}
+.foo ~ div {
+display: none;
+}
+.foo:checked ~ div {
+display: initial;
+}
+.pka {
+font-size: .825em;
+}
+#pirkejas-kitas-asmuo.foo ~ .savininkas {
+display: none;
+}
+#pirkejas-kitas-asmuo.foo:checked ~ .savininkas {
+display: initial;
+}
+#pristatyti.foo ~ .adresas {
+display: none;
+}
+#pristatyti.foo:checked ~ .adresas {
+display: initial;
+}
 &lt;/style></description></item><item><title>Rezervacijos informacija</title><link>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</guid><description>&lt;p>Jūsų inkilėlio (-ių) rezervacija patvirtinta.&lt;/p>
 &lt;p>Norėdami sėkmingai užbaigti pirkimą, pasirinktą sumą perveskite nurodytais rekvizitais:&lt;/p>
 &lt;p>Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” &lt;br />
