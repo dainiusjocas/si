@@ -38,7 +38,7 @@ el.p. vilnius@sekmesinkilelis.lt <br />
   <tr>
     <td>Asociacija „Šiaulių Auksinio Rato Rotaract klubas“<br />
 A/S: LT947180000001700070 AB “Šiaulių bankas”<br />
-el.p. info@sekmesinkilelis.lt <br />
+el.p. siauliai@sekmesinkilelis.lt <br />
  8 673 46403</td>
     <td rowspan="1"><img src="Siauliu-RAC-logo-1-217x300.png"></td>
   </tr>
@@ -48,7 +48,7 @@ el.p. info@sekmesinkilelis.lt <br />
   <tr>
     <td>Asociacija „Kauno Tvirtovės Rotaract klubas“ <br />
 A/S: LT374010051001794230, DnB Bankas <br />
-el.p. info@sekmesinkilelis.lt <br />
+el.p. kaunas@sekmesinkilelis.lt <br />
  8 613 99913</td>
     <td rowspan="1"><img src="kauno-tvirtove.png"></td>
   </tr>
@@ -58,7 +58,7 @@ el.p. info@sekmesinkilelis.lt <br />
   <tr>
     <td>Asociacija „Klaipėdos Senamiesčio Rotaract klubas“ <br />
 A/S: LT987044060000585281, SEB bankas <br /> 
-el.p. info@sekmesinkilelis.lt <br />
+el.p. klaipeda@sekmesinkilelis.lt <br />
  8 653 30601</td>
     <td rowspan="1"><img src="Klaipedos-senamiescio-RAC-logo-276x300.png"></td>
   </tr>
