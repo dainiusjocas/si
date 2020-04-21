@@ -16,5 +16,7 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 1
-+++
 
+# Form action for Netlify https://docs.netlify.com/forms/setup/#success-messages
+success_message = "/aciu/"
++++
