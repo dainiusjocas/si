@@ -24,7 +24,7 @@ output:
 
 Kaip tai vyksta? Kiekvieną pavasarį šimtai žmonių, įmonių bei asociacijų įsigydami „Sėkmės inkilėlį“ ar „Sėkmės apyrankę“ prisideda prie projekto fondo, iš kurio yra remiami jaunieji Lietuvos talentai – dainininkai, mokslininkai, sportininkai, dailininkai ir kiti aktyvūs jauni žmonės. Už surinktas lėšas yra perkami instrumentai, dailės priemonės, finansuojami tarptautiniai konkursai ir teikiama kita parama, kuri leidžia talentams skleistis. 
 
-Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę. Tai padaryti gali [ČIA](../kaip-isigyti/).
+Susidomėjai? Paremk projektą įsigydamas savo Sėkmės inkilėlį ar apyrankę. Fiziniai asmenys įsigyti gali [ČIA](../kaip-isigyti-privatiems/). Juridiniai asmenys įsigyti gali [ČIA](../kaip-isigyti-juridiniams/).
 
 Turi klausimų? Susisiek su mumis [ČIA](../../#contact). 
 
