@@ -309,14 +309,25 @@ display: none;
 #pristatyti.foo:checked ~ .adresas {
 display: initial;
 }
-&lt;/style></description></item><item><title>Rezervacijos informacija</title><link>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</guid><description>&lt;p>Jūsų inkilėlio (-ių) rezervacija patvirtinta.&lt;/p>
+&lt;/style></description></item><item><title>Rezervacijos patvirtinimas</title><link>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/rezervacija-privatiems/</guid><description>&lt;p>Jūsų inkilėlio (-ių) rezervacija patvirtinta.&lt;/p>
 &lt;p>Norėdami sėkmingai užbaigti pirkimą, pasirinktą sumą perveskite nurodytais rekvizitais:&lt;/p>
-&lt;p>Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” &lt;br />
+&lt;b>
+Asociacija „Vilniaus Geležinio Vilko Rotaract klubas” &lt;br />
 A/S: LT84 7300 0101 4243 9552 AB “Swedbank” &lt;br />
-el.p. &lt;a href="mailto:vilnius@sekmesinkilelis.lt">vilnius@sekmesinkilelis.lt&lt;/a> &lt;br />
-8 687 83493&lt;br/>&lt;/p>
+Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė) &lt;br />
+&lt;/b>&lt;br/>
 &lt;p>Gavę apmokėjimą, pranešime Jums, ir iškart pradėsime vykdyti užsakymą.&lt;/p>
-&lt;p>Ačiū, kad prisidedate prie jaunųjų talentų ugdymo ir gamtos puoselėjimo.&lt;/p></description></item><item><title>Kontaktai</title><link>https://www.jocas.lt/si/informacija/kontaktai/</link><pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kontaktai/</guid><description>&lt;table>
+&lt;p>Jei iškilo klausimų krepkitės:&lt;/p>
+&lt;ul>
+&lt;li>el.p. &lt;a href="mailto:vilnius@sekmesinkilelis.lt">vilnius@sekmesinkilelis.lt&lt;/a>&lt;/li>
+&lt;li>8 687 83493&lt;/li>
+&lt;/ul>
+&lt;p>Ačiū, kad prisidedate prie jaunųjų talentų ugdymo ir gamtos puoselėjimo.&lt;/p>
+&lt;figure>
+&lt;a data-fancybox="" href="https://www.jocas.lt/si/si/img/fb-cover-02.jpg" >
+&lt;img src="https://www.jocas.lt/si/si/img/fb-cover-02.jpg" alt="" >
+&lt;/a>
+&lt;/figure></description></item><item><title>Kontaktai</title><link>https://www.jocas.lt/si/informacija/kontaktai/</link><pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.jocas.lt/si/informacija/kontaktai/</guid><description>&lt;table>
 &lt;tbody>
 &lt;tr>
 &lt;td colspan="3">&lt;b>VILNIUJE&lt;/b>&lt;/td>
