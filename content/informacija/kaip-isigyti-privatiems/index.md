@@ -181,7 +181,7 @@ gallery_item:
   font-size: .825em;
 }
 .foo ~ div {
-  display: none;
+  display: none;=IaU[+pL3r
 }
 .foo:checked ~ div {
   display: initial;
