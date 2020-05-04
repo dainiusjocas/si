@@ -18,7 +18,22 @@ output:
     toc: true
     number_sections: true
     toc_depth: 1
+
+
+gallery_item:
+- album: gallery
+  image: inkiliukai-apyrankes/2.jpg
+  caption: Apyrankė 2
+- album: gallery
+  image: iii.png
+  caption: Apyrankė 1
 ---
+
+MPOOOOOOOOOOOOO
+
+{{< gallery >}}
+
+MOOOOOOOOOOOOOOO
 
 <form id="fsr-frm" name="business-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems">
   <fieldset id="fsr-frm-inputs-reservation">
