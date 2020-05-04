@@ -34,6 +34,12 @@
   url = "informacija/apie-projekta/"
 
 [[main]]
+  name = "Įsigyti apyrankę"
+  parent = "informacija"
+  identifier = "isigyti-apyranke"
+  url = "informacija/isigyti-apyranke/"
+
+[[main]]
   name = "Kaip įsigyti privatiems asmenims"
   parent = "informacija"
   identifier = "kaip-isigyti-privatiems"

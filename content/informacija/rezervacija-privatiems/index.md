@@ -33,7 +33,7 @@ Paskirtis – Sėkmės inkilėlis (savininko vardas ir pavardė) <br />
 
 Gavę apmokėjimą, pranešime Jums, ir iškart pradėsime vykdyti užsakymą. 
 
-Jei iškilo klausimų krepkitės:
+Jei iškilo klausimų, kreipkitės:
 - el.p. vilnius@sekmesinkilelis.lt
 - 8 687 83493
 

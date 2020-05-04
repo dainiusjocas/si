@@ -1,13 +1,13 @@
 ---
 aliases: [kaip-isigyti-privatiems]
 projects: [sekmes-inkilelis]
-title: Kaip įsigyti
+title: Kaip įsigyti privatiems asmenims
 # authors: ["Geležinis vilkas"]
 date: '2020-04-19'
 tags: []
 categories:
   - Informacija
-summary: Instrukcijos kaip įsigyti inkilėlį privatiems
+summary: Sėkmės inkilėlo rezervacija privatiems asmenims
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
@@ -18,6 +18,29 @@ output:
     toc: true
     number_sections: true
     toc_depth: 1
+
+gallery_item:
+- album: inkileliai
+  image: 00.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 01.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 02.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 03.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 05.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 06.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 07.jpg
+  caption: Inkilėlis
 ---
 
 <form id="fsr-frm" name="personal-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems">
@@ -31,11 +54,11 @@ output:
     <input type="email" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="example@example.com" required="true">
     <label for="phone-number">Telefono numeris:</label>
     <input type="tel" name="phone-number" id="phone-number" placeholder="+37060000000" required="false">
-    <label for="kiekis">Kiekis:</label>
-    <input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10"></input>
-    <label for="skiriama-suma">Skiriama suma:</label>
-    <input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100"></input>
-    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.</b></input>
+    <label for="inkileliu-kiekis">Inkilėlių kiekis:</label>
+    <input type="number" name="inkileliu-kiekis" id="inkileliu-kiekis" required="true" value="1" min="1" max="10"></input>
+    <label for="skiriama-suma">Skiriama suma vienam inkilėliui:</label>
+    <input type="number" name="skiriama-suma" id="skiriama-suma" value="30" min="30" max="100"></input>
+    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti nurodytu adresu? Nepažymėjus, inkilėlį pakabinsime Sapiegų pažintiniame take.</b></input>
     <label class="adresas" for="pristatymo-adresas">Pristatymo adresas:</label>
     <textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
@@ -177,5 +200,39 @@ output:
 }
 #pristatyti.foo:checked ~ .adresas {
   display: initial;
+}
+</style>
+</br>
+
+## Inkilėlių galerija
+
+{{< gallery album="inkileliai" >}}
+
+<style>
+  .gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+a[data-fancybox] {
+  text-decoration: none;
+  cursor: zoom-in;
+}
+
+.gallery a[data-fancybox] img {
+  height: 100px;
+  width: auto;
+  max-width: inherit;
+  display: inherit;
+  margin: 0;
+  padding: 4px;
+  box-shadow: none;
+  vertical-align: inherit;
+}
+
+.fancybox-caption {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-align: center;
 }
 </style>

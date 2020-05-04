@@ -1,13 +1,13 @@
 ---
-aliases: [kaip-isigyti-juridiniams]
+aliases: [isigyti-apyranke]
 projects: [sekmes-inkilelis]
-title: Kaip įsigyti juridiniams asmenims
+title: Įsigykite Sėkmės inkilėlio apyrankę
 # authors: ["Geležinis vilkas"]
-date: '2020-04-19'
+date: '2020-04-30'
 tags: []
 categories:
   - Informacija
-summary: Instrukcijos kaip įsigyti inkilėlį juridiniams asmenims
+summary: Įsigyti Sėkmės inkilėlio apyrankę
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
@@ -20,47 +20,48 @@ output:
     toc_depth: 1
 
 gallery_item:
-- album: inkileliai
-  image: 00.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 01.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 02.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 03.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 05.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 06.jpg
-  caption: Inkilėlis
-- album: inkileliai
-  image: 07.jpg
-  caption: Inkilėlis
+- album: apyrankes
+  image: 1.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 2.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 3.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 4.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 5.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 6.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 7.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 8.jpg
+  caption: Apyrankė
 ---
 
-<form id="fsr-frm" name="business-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems">
+<form id="fsr-frm" name="apyrankiu-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems">
   <fieldset id="fsr-frm-inputs-reservation">
     <label for="full-name">Pirkėjo vardas ir pavardė:</label>
     <input type="text" name="pirkejo-vardas" id="full-name" placeholder="Vardenis Pavardenis" required="true">
-    <label class="rekvizitai" for="rekvizitai">Rekvizitai:</label>
-    <textarea class="rekvizitai" rows="2" name="rekvizitai" id="rekvizitai" placeholder="Kodas, adresas, pavadinimas"></textarea>
     <label for="email-address">Elektroninis paštas:</label>
     <input type="email" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="example@example.com" required="true">
     <label for="phone-number">Telefono numeris:</label>
     <input type="tel" name="phone-number" id="phone-number" placeholder="+37060000000" required="false">
-    <label for="inkileliu-kiekis">Inkilėlių kiekis:</label>
-    <input type="number" name="inkileliu-kiekis" id="inkileliu-kiekis" required="true" value="1" min="1" max="10"></input>
-    <label for="skiriama-suma">Skiriama suma vienam inkilėliui:</label>
-    <input type="number" name="skiriama-suma" id="skiriama-suma" value="50" min="50" max="100"></input>
-    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti nurodytu adresu? Nepažymėjus, inkilėlį pakabinsime Sapiegų pažintiniame take.</b></input>
+    <label for="apyrankiu-kiekis">Apyrankių kiekis:</label>
+    <input type="number" name="apyrankiu-kiekis" id="apyrankiu-kiekis" required="true" value="1" min="1" max="10"></input>
+    <label for="skiriama-suma">Skiriama suma vienai apyrankei:</label>
+    <input type="number" name="skiriama-suma" id="skiriama-suma" value="5" min="5" max="10"></input>
+    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti nurodytu adresu?</b></input>
     <label class="adresas" for="pristatymo-adresas">Pristatymo adresas:</label>
     <textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
+    <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio apyrankių rezervacija">
   </fieldset>
 
   <div data-netlify-recaptcha="true"></div>
@@ -203,9 +204,9 @@ gallery_item:
 </style>
 </br>
 
-## Inkilėlių galerija
+## Apyrankių galerija
 
-{{< gallery album="inkileliai" >}}
+{{< gallery album="apyrankes" >}}
 
 <style>
   .gallery {
