@@ -1,13 +1,13 @@
 ---
 aliases: [kaip-isigyti-privatiems]
 projects: [sekmes-inkilelis]
-title: Kaip įsigyti
+title: Kaip įsigyti privatiems asmenims
 # authors: ["Geležinis vilkas"]
 date: '2020-04-19'
 tags: []
 categories:
   - Informacija
-summary: Instrukcijos kaip įsigyti inkilėlį privatiems
+summary: Sėkmės inkilėlo rezervacija privatiems asmenims
 image:
   caption: "[Photo by nexmo.com](https://www.nexmo.com/blog/2016/05/31/building-sms-google-sheets-application-aws-lambda-dr)"
   focal_point: "Center"
