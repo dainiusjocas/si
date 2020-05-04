@@ -31,11 +31,15 @@ output:
     <input type="email" name="kontaktiniai-duomenys" id="kontaktiniai-duomenys" placeholder="example@example.com" required="true">
     <label for="phone-number">Telefono numeris:</label>
     <input type="tel" name="phone-number" id="phone-number" placeholder="+37060000000" required="false">
-    <label for="kiekis">Kiekis:</label>
-    <input type="number" name="kiekis" id="kiekis" required="true" value="1" min="1" max="10"></input>
-    <label for="skiriama-suma">Skiriama suma:</label>
-    <input type="number" name="skiriama-suma" id="skiriama-sume" value="30" min="30" max="100"></input>
-    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti inkiliuką nurodytu adresu? Nepažymėjus, pakabinsime Sapiegų pažintiniame take.</b></input>
+    <label for="inkileliu-kiekis">Inkilėlių kiekis:</label>
+    <input type="number" name="inkileliu-kiekis" id="inkileliu-kiekis" required="true" value="1" min="1" max="10"></input>
+    <label for="skiriama-suma">Skiriama suma vienam inkilėliui:</label>
+    <input type="number" name="skiriama-suma" id="skiriama-suma" value="30" min="30" max="100"></input>
+    <label for="apyrankiu-kiekis">Apyrankių kiekis:</label>
+    <input type="number" name="apyrankiu-kiekis" id="apyrankiu-kiekis" required="true" value="1" min="0" max="10"></input>
+    <label for="skiriama-suma">Skiriama suma vienam apyrankei:</label>
+    <input type="number" name="skiriama-suma" id="skiriama-suma" value="5" min="5" max="10"></input>
+    <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti nurodytu adresu? Nepažymėjus, inkilėlį pakabinsime Sapiegų pažintiniame take.</b></input>
     <label class="adresas" for="pristatymo-adresas">Pristatymo adresas:</label>
     <textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Sėkmės inkilėlio rezervacija">
