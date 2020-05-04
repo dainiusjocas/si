@@ -19,33 +19,6 @@ output:
     number_sections: true
     toc_depth: 1
 
-
-gallery_item:
-- album: apyrankes
-  image: 1.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 2.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 3.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 4.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 5.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 6.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 7.jpg
-  caption: Apyrankė
-- album: apyrankes
-  image: 8.jpg
-  caption: Apyrankė
-
 gallery_item:
 - album: inkileliai
   image: 00.jpg
@@ -85,10 +58,6 @@ gallery_item:
     <input type="number" name="inkileliu-kiekis" id="inkileliu-kiekis" required="true" value="1" min="1" max="10"></input>
     <label for="skiriama-suma">Skiriama suma vienam inkilėliui:</label>
     <input type="number" name="skiriama-suma" id="skiriama-suma" value="30" min="30" max="100"></input>
-    <label for="apyrankiu-kiekis">Apyrankių kiekis:</label>
-    <input type="number" name="apyrankiu-kiekis" id="apyrankiu-kiekis" required="true" value="1" min="0" max="10"></input>
-    <label for="skiriama-suma">Skiriama suma vienam apyrankei:</label>
-    <input type="number" name="skiriama-suma" id="skiriama-suma" value="5" min="5" max="10"></input>
     <input type="checkbox" class="foo" id="pristatyti" name="pristatyti" value="pristatyti"><b class="pka">Pristatyti nurodytu adresu? Nepažymėjus, inkilėlį pakabinsime Sapiegų pažintiniame take.</b></input>
     <label class="adresas" for="pristatymo-adresas">Pristatymo adresas:</label>
     <textarea class="adresas" rows="2" name="pristatymo-adresas" id="pristatymo-adresas" placeholder="Kur pristatyti inkiliuką..."></textarea>
@@ -238,10 +207,6 @@ gallery_item:
 ## Inkilėlių galerija
 
 {{< gallery album="inkileliai" >}}
-
-## Apyrankių galerija
-
-{{< gallery album="apyrankes" >}}
 
 <style>
   .gallery {
