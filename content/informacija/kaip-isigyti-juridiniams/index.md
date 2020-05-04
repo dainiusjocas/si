@@ -21,19 +21,54 @@ output:
 
 
 gallery_item:
-- album: gallery
-  image: inkiliukai-apyrankes/2.jpg
-  caption: Apyrankė 2
-- album: gallery
-  image: iii.png
-  caption: Apyrankė 1
+- album: apyrankes
+  image: 1.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 2.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 3.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 4.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 5.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 6.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 7.jpg
+  caption: Apyrankė
+- album: apyrankes
+  image: 8.jpg
+  caption: Apyrankė
+
+gallery_item:
+- album: inkileliai
+  image: 00.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 01.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 02.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 03.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 05.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 06.jpg
+  caption: Inkilėlis
+- album: inkileliai
+  image: 07.jpg
+  caption: Inkilėlis
 ---
-
-MPOOOOOOOOOOOOO
-
-{{< gallery >}}
-
-MOOOOOOOOOOOOOOO
 
 <form id="fsr-frm" name="business-reservation-form" accept-charset="utf-8" method="POST" data-netlify-recaptcha="true" netlify data-netlify="true" action="/informacija/rezervacija-privatiems">
   <fieldset id="fsr-frm-inputs-reservation">
@@ -195,5 +230,43 @@ MOOOOOOOOOOOOOOO
 }
 #pristatyti.foo:checked ~ .adresas {
   display: initial;
+}
+</style>
+</br>
+
+## Inkilėlių galerija
+
+{{< gallery album="inkileliai" >}}
+
+## Apyrankių galerija
+
+{{< gallery album="apyrankes" >}}
+
+<style>
+  .gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+a[data-fancybox] {
+  text-decoration: none;
+  cursor: zoom-in;
+}
+
+.gallery a[data-fancybox] img {
+  height: 100px;
+  width: auto;
+  max-width: inherit;
+  display: inherit;
+  margin: 0;
+  padding: 4px;
+  box-shadow: none;
+  vertical-align: inherit;
+}
+
+.fancybox-caption {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-align: center;
 }
 </style>
