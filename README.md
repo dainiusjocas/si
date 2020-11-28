@@ -5,6 +5,15 @@
 
 Hugo version needed is https://github.com/gohugoio/hugo/releases/tag/v0.64.1
 
+## How to create static website
+
+```
+hugo --gc --minify -b /
+tar zcvf sekmesinkilelis.tar.gz public/*
+```
+
+And there is a file `sekmesinkilelis.tar.gz` that can be deployed to any hosting website.
+
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
