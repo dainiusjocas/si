@@ -19,7 +19,7 @@ output:
     number_sections: true
     toc_depth: 1
 ---
-
+<!-- 
 <form id="fs-frm" name="survey-form" accept-charset="utf-8" method="post" data-netlify-recaptcha="true" netlify>
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Vardas, Pavardė:</label>
@@ -242,4 +242,4 @@ output:
 
 {{% staticref "files/anketa.sekmes-inkilelis.2020-01-30.pdf" %}}Atsisiųskite paraišką `pdf` formatu{{% /staticref %}}
 
-{{% staticref "files/anketa.sekmes-inkilelis.2020-01-30.docx" %}}Atsisiųskite paraišką `docx` formatu{{% /staticref %}}
+{{% staticref "files/anketa.sekmes-inkilelis.2020-01-30.docx" %}}Atsisiųskite paraišką `docx` formatu{{% /staticref %}} -->
